@@ -1,0 +1,45 @@
+{
+  "id": "KN10L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bath",
+    "en": "Bath",
+    "slug": "bath-kn10l002"
+  },
+  "code": {
+    "id": "KN10L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN10",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul Charlestown",
+      "en": "Saint Paul Charlestown",
+      "slug": "saint-paul-charlestown-kn10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN10",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Charlestown",
+        "en": "Saint Paul Charlestown",
+        "slug": "saint-paul-charlestown-kn10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.13",
+    "lon": "-62.627"
+  },
+  "metadata": {},
+  "source": {}
+}

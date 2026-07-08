@@ -1,0 +1,45 @@
+{
+  "id": "KN10L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Charlestown",
+    "en": "Charlestown",
+    "slug": "charlestown-kn10l001"
+  },
+  "code": {
+    "id": "KN10L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN10",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul Charlestown",
+      "en": "Saint Paul Charlestown",
+      "slug": "saint-paul-charlestown-kn10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN10",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Charlestown",
+        "en": "Saint Paul Charlestown",
+        "slug": "saint-paul-charlestown-kn10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.133",
+    "lon": "-62.617"
+  },
+  "metadata": {},
+  "source": {}
+}

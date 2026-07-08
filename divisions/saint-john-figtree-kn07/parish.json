@@ -1,0 +1,33 @@
+{
+  "id": "KN07",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint John Figtree",
+    "en": "Saint John Figtree",
+    "slug": "saint-john-figtree-kn07"
+  },
+  "code": {
+    "id": "KN07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.118",
+    "lon": "-62.592"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-john-figtree-kn07/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

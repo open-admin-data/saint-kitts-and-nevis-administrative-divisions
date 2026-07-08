@@ -1,0 +1,1629 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/kn/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions",
+  "data": [
+    {
+      "id": "KN01",
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      },
+      "code": {
+        "id": "KN01",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN01L001",
+          "name": {
+            "local": "Gambles",
+            "en": "Gambles",
+            "slug": "gambles-kn01l001"
+          },
+          "code": {
+            "id": "KN01L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN01L002",
+          "name": {
+            "local": "Tabernacle",
+            "en": "Tabernacle",
+            "slug": "tabernacle-kn01l002"
+          },
+          "code": {
+            "id": "KN01L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN01L003",
+          "name": {
+            "local": "Mansion",
+            "en": "Mansion",
+            "slug": "mansion-kn01l003"
+          },
+          "code": {
+            "id": "KN01L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN01L004",
+          "name": {
+            "local": "Lodge",
+            "en": "Lodge",
+            "slug": "lodge-kn01l004"
+          },
+          "code": {
+            "id": "KN01L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN01L005",
+          "name": {
+            "local": "Phillips",
+            "en": "Phillips",
+            "slug": "phillips-kn01l005"
+          },
+          "code": {
+            "id": "KN01L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN01L006",
+          "name": {
+            "local": "Ottley's",
+            "en": "Ottley's",
+            "slug": "ottley-s-kn01l006"
+          },
+          "code": {
+            "id": "KN01L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN01L007",
+          "name": {
+            "local": "Bayford's",
+            "en": "Bayford's",
+            "slug": "bayford-s-kn01l007"
+          },
+          "code": {
+            "id": "KN01L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN01L008",
+          "name": {
+            "local": "Nicola Town",
+            "en": "Nicola Town",
+            "slug": "nicola-town-kn01l008"
+          },
+          "code": {
+            "id": "KN01L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN01L009",
+          "name": {
+            "local": "Molineux",
+            "en": "Molineux",
+            "slug": "molineux-kn01l009"
+          },
+          "code": {
+            "id": "KN01L009",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN02",
+      "name": {
+        "local": "Saint Anne Sandy Point",
+        "en": "Saint Anne Sandy Point",
+        "slug": "saint-anne-sandy-point-kn02"
+      },
+      "code": {
+        "id": "KN02",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN02L001",
+          "name": {
+            "local": "Sandy Point Town",
+            "en": "Sandy Point Town",
+            "slug": "sandy-point-town-kn02l001"
+          },
+          "code": {
+            "id": "KN02L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN02L002",
+          "name": {
+            "local": "Sandy Point Town",
+            "en": "Sandy Point Town",
+            "slug": "sandy-point-town-kn02l002"
+          },
+          "code": {
+            "id": "KN02L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN02L003",
+          "name": {
+            "local": "Burts",
+            "en": "Burts",
+            "slug": "burts-kn02l003"
+          },
+          "code": {
+            "id": "KN02L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN02L004",
+          "name": {
+            "local": "Fig Tree",
+            "en": "Fig Tree",
+            "slug": "fig-tree-kn02l004"
+          },
+          "code": {
+            "id": "KN02L004",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN03",
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      },
+      "code": {
+        "id": "KN03",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN03L001",
+          "name": {
+            "local": "Monkey Hill",
+            "en": "Monkey Hill",
+            "slug": "monkey-hill-kn03l001"
+          },
+          "code": {
+            "id": "KN03L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN03L002",
+          "name": {
+            "local": "Saint Peter's",
+            "en": "Saint Peter's",
+            "slug": "saint-peter-s-kn03l002"
+          },
+          "code": {
+            "id": "KN03L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN03L003",
+          "name": {
+            "local": "La Guerite",
+            "en": "La Guerite",
+            "slug": "la-guerite-kn03l003"
+          },
+          "code": {
+            "id": "KN03L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN03L004",
+          "name": {
+            "local": "Lucas",
+            "en": "Lucas",
+            "slug": "lucas-kn03l004"
+          },
+          "code": {
+            "id": "KN03L004",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN04",
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      },
+      "code": {
+        "id": "KN04",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN04L001",
+          "name": {
+            "local": "Stonyhill",
+            "en": "Stonyhill",
+            "slug": "stonyhill-kn04l001"
+          },
+          "code": {
+            "id": "KN04L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L002",
+          "name": {
+            "local": "Gingerland",
+            "en": "Gingerland",
+            "slug": "gingerland-kn04l002"
+          },
+          "code": {
+            "id": "KN04L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L003",
+          "name": {
+            "local": "Zetlands",
+            "en": "Zetlands",
+            "slug": "zetlands-kn04l003"
+          },
+          "code": {
+            "id": "KN04L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L004",
+          "name": {
+            "local": "Harris",
+            "en": "Harris",
+            "slug": "harris-kn04l004"
+          },
+          "code": {
+            "id": "KN04L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L005",
+          "name": {
+            "local": "Hichmans",
+            "en": "Hichmans",
+            "slug": "hichmans-kn04l005"
+          },
+          "code": {
+            "id": "KN04L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L006",
+          "name": {
+            "local": "Buck's Hill",
+            "en": "Buck's Hill",
+            "slug": "buck-s-hill-kn04l006"
+          },
+          "code": {
+            "id": "KN04L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L007",
+          "name": {
+            "local": "Fenton Hill",
+            "en": "Fenton Hill",
+            "slug": "fenton-hill-kn04l007"
+          },
+          "code": {
+            "id": "KN04L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L008",
+          "name": {
+            "local": "Market Shop",
+            "en": "Market Shop",
+            "slug": "market-shop-kn04l008"
+          },
+          "code": {
+            "id": "KN04L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L009",
+          "name": {
+            "local": "Maynards Ground",
+            "en": "Maynards Ground",
+            "slug": "maynards-ground-kn04l009"
+          },
+          "code": {
+            "id": "KN04L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L010",
+          "name": {
+            "local": "Hardtimes",
+            "en": "Hardtimes",
+            "slug": "hardtimes-kn04l010"
+          },
+          "code": {
+            "id": "KN04L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L011",
+          "name": {
+            "local": "Webb's Ground",
+            "en": "Webb's Ground",
+            "slug": "webb-s-ground-kn04l011"
+          },
+          "code": {
+            "id": "KN04L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L012",
+          "name": {
+            "local": "New River",
+            "en": "New River",
+            "slug": "new-river-kn04l012"
+          },
+          "code": {
+            "id": "KN04L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L013",
+          "name": {
+            "local": "Sherriffs",
+            "en": "Sherriffs",
+            "slug": "sherriffs-kn04l013"
+          },
+          "code": {
+            "id": "KN04L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L014",
+          "name": {
+            "local": "Zion",
+            "en": "Zion",
+            "slug": "zion-kn04l014"
+          },
+          "code": {
+            "id": "KN04L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L015",
+          "name": {
+            "local": "Holmes Hill",
+            "en": "Holmes Hill",
+            "slug": "holmes-hill-kn04l015"
+          },
+          "code": {
+            "id": "KN04L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L016",
+          "name": {
+            "local": "Rices",
+            "en": "Rices",
+            "slug": "rices-kn04l016"
+          },
+          "code": {
+            "id": "KN04L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L017",
+          "name": {
+            "local": "Bachelors Hall",
+            "en": "Bachelors Hall",
+            "slug": "bachelors-hall-kn04l017"
+          },
+          "code": {
+            "id": "KN04L017",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN04L018",
+          "name": {
+            "local": "Crook's Ground",
+            "en": "Crook's Ground",
+            "slug": "crook-s-ground-kn04l018"
+          },
+          "code": {
+            "id": "KN04L018",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN05",
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      },
+      "code": {
+        "id": "KN05",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN05L001",
+          "name": {
+            "local": "Mannings",
+            "en": "Mannings",
+            "slug": "mannings-kn05l001"
+          },
+          "code": {
+            "id": "KN05L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L002",
+          "name": {
+            "local": "Rawlins",
+            "en": "Rawlins",
+            "slug": "rawlins-kn05l002"
+          },
+          "code": {
+            "id": "KN05L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L003",
+          "name": {
+            "local": "Newcastle",
+            "en": "Newcastle",
+            "slug": "newcastle-kn05l003"
+          },
+          "code": {
+            "id": "KN05L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L004",
+          "name": {
+            "local": "Barnabys Village",
+            "en": "Barnabys Village",
+            "slug": "barnabys-village-kn05l004"
+          },
+          "code": {
+            "id": "KN05L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L005",
+          "name": {
+            "local": "Burnaby",
+            "en": "Burnaby",
+            "slug": "burnaby-kn05l005"
+          },
+          "code": {
+            "id": "KN05L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L006",
+          "name": {
+            "local": "Mount Lily",
+            "en": "Mount Lily",
+            "slug": "mount-lily-kn05l006"
+          },
+          "code": {
+            "id": "KN05L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L007",
+          "name": {
+            "local": "Brick Kiln",
+            "en": "Brick Kiln",
+            "slug": "brick-kiln-kn05l007"
+          },
+          "code": {
+            "id": "KN05L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L008",
+          "name": {
+            "local": "Scarborough",
+            "en": "Scarborough",
+            "slug": "scarborough-kn05l008"
+          },
+          "code": {
+            "id": "KN05L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L009",
+          "name": {
+            "local": "Cliftons",
+            "en": "Cliftons",
+            "slug": "cliftons-kn05l009"
+          },
+          "code": {
+            "id": "KN05L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L010",
+          "name": {
+            "local": "Maddens",
+            "en": "Maddens",
+            "slug": "maddens-kn05l010"
+          },
+          "code": {
+            "id": "KN05L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L011",
+          "name": {
+            "local": "Hick's",
+            "en": "Hick's",
+            "slug": "hick-s-kn05l011"
+          },
+          "code": {
+            "id": "KN05L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L012",
+          "name": {
+            "local": "Whitehall",
+            "en": "Whitehall",
+            "slug": "whitehall-kn05l012"
+          },
+          "code": {
+            "id": "KN05L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L013",
+          "name": {
+            "local": "Fothergill",
+            "en": "Fothergill",
+            "slug": "fothergill-kn05l013"
+          },
+          "code": {
+            "id": "KN05L013",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L014",
+          "name": {
+            "local": "Butlers",
+            "en": "Butlers",
+            "slug": "butlers-kn05l014"
+          },
+          "code": {
+            "id": "KN05L014",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L015",
+          "name": {
+            "local": "Rawlins",
+            "en": "Rawlins",
+            "slug": "rawlins-kn05l015"
+          },
+          "code": {
+            "id": "KN05L015",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L016",
+          "name": {
+            "local": "Camps",
+            "en": "Camps",
+            "slug": "camps-kn05l016"
+          },
+          "code": {
+            "id": "KN05L016",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN05L017",
+          "name": {
+            "local": "Fountain",
+            "en": "Fountain",
+            "slug": "fountain-kn05l017"
+          },
+          "code": {
+            "id": "KN05L017",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN06",
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      },
+      "code": {
+        "id": "KN06",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN06L001",
+          "name": {
+            "local": "Saunders",
+            "en": "Saunders",
+            "slug": "saunders-kn06l001"
+          },
+          "code": {
+            "id": "KN06L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN06L002",
+          "name": {
+            "local": "Dieppe Bay Town",
+            "en": "Dieppe Bay Town",
+            "slug": "dieppe-bay-town-kn06l002"
+          },
+          "code": {
+            "id": "KN06L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN06L003",
+          "name": {
+            "local": "Parson's Ground",
+            "en": "Parson's Ground",
+            "slug": "parson-s-ground-kn06l003"
+          },
+          "code": {
+            "id": "KN06L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN06L004",
+          "name": {
+            "local": "Brownes",
+            "en": "Brownes",
+            "slug": "brownes-kn06l004"
+          },
+          "code": {
+            "id": "KN06L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN06L005",
+          "name": {
+            "local": "Geagans",
+            "en": "Geagans",
+            "slug": "geagans-kn06l005"
+          },
+          "code": {
+            "id": "KN06L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN06L006",
+          "name": {
+            "local": "Cliftons",
+            "en": "Cliftons",
+            "slug": "cliftons-kn06l006"
+          },
+          "code": {
+            "id": "KN06L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN06L007",
+          "name": {
+            "local": "Houstons",
+            "en": "Houstons",
+            "slug": "houstons-kn06l007"
+          },
+          "code": {
+            "id": "KN06L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN06L008",
+          "name": {
+            "local": "Harris",
+            "en": "Harris",
+            "slug": "harris-kn06l008"
+          },
+          "code": {
+            "id": "KN06L008",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN07",
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      },
+      "code": {
+        "id": "KN07",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN07L001",
+          "name": {
+            "local": "Hull Ground",
+            "en": "Hull Ground",
+            "slug": "hull-ground-kn07l001"
+          },
+          "code": {
+            "id": "KN07L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L002",
+          "name": {
+            "local": "Fig Tree",
+            "en": "Fig Tree",
+            "slug": "fig-tree-kn07l002"
+          },
+          "code": {
+            "id": "KN07L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L003",
+          "name": {
+            "local": "Montpelier",
+            "en": "Montpelier",
+            "slug": "montpelier-kn07l003"
+          },
+          "code": {
+            "id": "KN07L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L004",
+          "name": {
+            "local": "Cox",
+            "en": "Cox",
+            "slug": "cox-kn07l004"
+          },
+          "code": {
+            "id": "KN07L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L005",
+          "name": {
+            "local": "Brown Pasture",
+            "en": "Brown Pasture",
+            "slug": "brown-pasture-kn07l005"
+          },
+          "code": {
+            "id": "KN07L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L006",
+          "name": {
+            "local": "Pembroke",
+            "en": "Pembroke",
+            "slug": "pembroke-kn07l006"
+          },
+          "code": {
+            "id": "KN07L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L007",
+          "name": {
+            "local": "Taylors Pasture",
+            "en": "Taylors Pasture",
+            "slug": "taylors-pasture-kn07l007"
+          },
+          "code": {
+            "id": "KN07L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L008",
+          "name": {
+            "local": "Cole Hill",
+            "en": "Cole Hill",
+            "slug": "cole-hill-kn07l008"
+          },
+          "code": {
+            "id": "KN07L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L009",
+          "name": {
+            "local": "Beaumont",
+            "en": "Beaumont",
+            "slug": "beaumont-kn07l009"
+          },
+          "code": {
+            "id": "KN07L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L010",
+          "name": {
+            "local": "Pond Hill",
+            "en": "Pond Hill",
+            "slug": "pond-hill-kn07l010"
+          },
+          "code": {
+            "id": "KN07L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L011",
+          "name": {
+            "local": "Brown Hill",
+            "en": "Brown Hill",
+            "slug": "brown-hill-kn07l011"
+          },
+          "code": {
+            "id": "KN07L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L012",
+          "name": {
+            "local": "Chicken Stone",
+            "en": "Chicken Stone",
+            "slug": "chicken-stone-kn07l012"
+          },
+          "code": {
+            "id": "KN07L012",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN07L013",
+          "name": {
+            "local": "Hermitage",
+            "en": "Hermitage",
+            "slug": "hermitage-kn07l013"
+          },
+          "code": {
+            "id": "KN07L013",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN08",
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      },
+      "code": {
+        "id": "KN08",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN08L001",
+          "name": {
+            "local": "Cayon",
+            "en": "Cayon",
+            "slug": "cayon-kn08l001"
+          },
+          "code": {
+            "id": "KN08L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN08L002",
+          "name": {
+            "local": "Jack in the Box",
+            "en": "Jack in the Box",
+            "slug": "jack-in-the-box-kn08l002"
+          },
+          "code": {
+            "id": "KN08L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN08L003",
+          "name": {
+            "local": "Key",
+            "en": "Key",
+            "slug": "key-kn08l003"
+          },
+          "code": {
+            "id": "KN08L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN08L004",
+          "name": {
+            "local": "Hermitage",
+            "en": "Hermitage",
+            "slug": "hermitage-kn08l004"
+          },
+          "code": {
+            "id": "KN08L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN08L005",
+          "name": {
+            "local": "Bourryau",
+            "en": "Bourryau",
+            "slug": "bourryau-kn08l005"
+          },
+          "code": {
+            "id": "KN08L005",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN09",
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      },
+      "code": {
+        "id": "KN09",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN09L001",
+          "name": {
+            "local": "St. Paul's",
+            "en": "St. Paul's",
+            "slug": "st-paul-s-kn09l001"
+          },
+          "code": {
+            "id": "KN09L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN09L002",
+          "name": {
+            "local": "Saint Paul's",
+            "en": "Saint Paul's",
+            "slug": "saint-paul-s-kn09l002"
+          },
+          "code": {
+            "id": "KN09L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN09L003",
+          "name": {
+            "local": "Newton Ground",
+            "en": "Newton Ground",
+            "slug": "newton-ground-kn09l003"
+          },
+          "code": {
+            "id": "KN09L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN09L004",
+          "name": {
+            "local": "Heldens",
+            "en": "Heldens",
+            "slug": "heldens-kn09l004"
+          },
+          "code": {
+            "id": "KN09L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN09L005",
+          "name": {
+            "local": "Trants",
+            "en": "Trants",
+            "slug": "trants-kn09l005"
+          },
+          "code": {
+            "id": "KN09L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN09L006",
+          "name": {
+            "local": "Ortons",
+            "en": "Ortons",
+            "slug": "ortons-kn09l006"
+          },
+          "code": {
+            "id": "KN09L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN09L007",
+          "name": {
+            "local": "Whitegate",
+            "en": "Whitegate",
+            "slug": "whitegate-kn09l007"
+          },
+          "code": {
+            "id": "KN09L007",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN10",
+      "name": {
+        "local": "Saint Paul Charlestown",
+        "en": "Saint Paul Charlestown",
+        "slug": "saint-paul-charlestown-kn10"
+      },
+      "code": {
+        "id": "KN10",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN10L001",
+          "name": {
+            "local": "Charlestown",
+            "en": "Charlestown",
+            "slug": "charlestown-kn10l001"
+          },
+          "code": {
+            "id": "KN10L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN10L002",
+          "name": {
+            "local": "Bath",
+            "en": "Bath",
+            "slug": "bath-kn10l002"
+          },
+          "code": {
+            "id": "KN10L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN10L003",
+          "name": {
+            "local": "Church Ground",
+            "en": "Church Ground",
+            "slug": "church-ground-kn10l003"
+          },
+          "code": {
+            "id": "KN10L003",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN11",
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      },
+      "code": {
+        "id": "KN11",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN11L001",
+          "name": {
+            "local": "Parrys",
+            "en": "Parrys",
+            "slug": "parrys-kn11l001"
+          },
+          "code": {
+            "id": "KN11L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L002",
+          "name": {
+            "local": "Kittitian Village",
+            "en": "Kittitian Village",
+            "slug": "kittitian-village-kn11l002"
+          },
+          "code": {
+            "id": "KN11L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L003",
+          "name": {
+            "local": "Canada",
+            "en": "Canada",
+            "slug": "canada-kn11l003"
+          },
+          "code": {
+            "id": "KN11L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L004",
+          "name": {
+            "local": "Ogee's",
+            "en": "Ogee's",
+            "slug": "ogee-s-kn11l004"
+          },
+          "code": {
+            "id": "KN11L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L005",
+          "name": {
+            "local": "Douglas",
+            "en": "Douglas",
+            "slug": "douglas-kn11l005"
+          },
+          "code": {
+            "id": "KN11L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L006",
+          "name": {
+            "local": "Mardenbrough",
+            "en": "Mardenbrough",
+            "slug": "mardenbrough-kn11l006"
+          },
+          "code": {
+            "id": "KN11L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L007",
+          "name": {
+            "local": "Greatheeds",
+            "en": "Greatheeds",
+            "slug": "greatheeds-kn11l007"
+          },
+          "code": {
+            "id": "KN11L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L008",
+          "name": {
+            "local": "John England Village",
+            "en": "John England Village",
+            "slug": "john-england-village-kn11l008"
+          },
+          "code": {
+            "id": "KN11L008",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L009",
+          "name": {
+            "local": "Golden Rock",
+            "en": "Golden Rock",
+            "slug": "golden-rock-kn11l009"
+          },
+          "code": {
+            "id": "KN11L009",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L010",
+          "name": {
+            "local": "Stapleton",
+            "en": "Stapleton",
+            "slug": "stapleton-kn11l010"
+          },
+          "code": {
+            "id": "KN11L010",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L011",
+          "name": {
+            "local": "Dalzells",
+            "en": "Dalzells",
+            "slug": "dalzells-kn11l011"
+          },
+          "code": {
+            "id": "KN11L011",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN11L012",
+          "name": {
+            "local": "Upper Conaree",
+            "en": "Upper Conaree",
+            "slug": "upper-conaree-kn11l012"
+          },
+          "code": {
+            "id": "KN11L012",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN12",
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      },
+      "code": {
+        "id": "KN12",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN12L001",
+          "name": {
+            "local": "Cotton Ground",
+            "en": "Cotton Ground",
+            "slug": "cotton-ground-kn12l001"
+          },
+          "code": {
+            "id": "KN12L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN12L002",
+          "name": {
+            "local": "Vaughans",
+            "en": "Vaughans",
+            "slug": "vaughans-kn12l002"
+          },
+          "code": {
+            "id": "KN12L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN12L003",
+          "name": {
+            "local": "Jessup",
+            "en": "Jessup",
+            "slug": "jessup-kn12l003"
+          },
+          "code": {
+            "id": "KN12L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN12L004",
+          "name": {
+            "local": "Barnes Ghaut",
+            "en": "Barnes Ghaut",
+            "slug": "barnes-ghaut-kn12l004"
+          },
+          "code": {
+            "id": "KN12L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN12L005",
+          "name": {
+            "local": "Craddocks",
+            "en": "Craddocks",
+            "slug": "craddocks-kn12l005"
+          },
+          "code": {
+            "id": "KN12L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN12L006",
+          "name": {
+            "local": "Westbury",
+            "en": "Westbury",
+            "slug": "westbury-kn12l006"
+          },
+          "code": {
+            "id": "KN12L006",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN13",
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      },
+      "code": {
+        "id": "KN13",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN13L001",
+          "name": {
+            "local": "Challengers",
+            "en": "Challengers",
+            "slug": "challengers-kn13l001"
+          },
+          "code": {
+            "id": "KN13L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN13L002",
+          "name": {
+            "local": "Middle Island",
+            "en": "Middle Island",
+            "slug": "middle-island-kn13l002"
+          },
+          "code": {
+            "id": "KN13L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN13L003",
+          "name": {
+            "local": "Half Way Tree",
+            "en": "Half Way Tree",
+            "slug": "half-way-tree-kn13l003"
+          },
+          "code": {
+            "id": "KN13L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN13L004",
+          "name": {
+            "local": "Trinity",
+            "en": "Trinity",
+            "slug": "trinity-kn13l004"
+          },
+          "code": {
+            "id": "KN13L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN13L005",
+          "name": {
+            "local": "Romneys",
+            "en": "Romneys",
+            "slug": "romneys-kn13l005"
+          },
+          "code": {
+            "id": "KN13L005",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN13L006",
+          "name": {
+            "local": "Old Road Town",
+            "en": "Old Road Town",
+            "slug": "old-road-town-kn13l006"
+          },
+          "code": {
+            "id": "KN13L006",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN13L007",
+          "name": {
+            "local": "Wingfield Manor",
+            "en": "Wingfield Manor",
+            "slug": "wingfield-manor-kn13l007"
+          },
+          "code": {
+            "id": "KN13L007",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN13L008",
+          "name": {
+            "local": "Ottley's",
+            "en": "Ottley's",
+            "slug": "ottley-s-kn13l008"
+          },
+          "code": {
+            "id": "KN13L008",
+            "iso": null
+          }
+        }
+      ]
+    },
+    {
+      "id": "KN14",
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      },
+      "code": {
+        "id": "KN14",
+        "iso": null
+      },
+      "locality": [
+        {
+          "id": "KN14L001",
+          "name": {
+            "local": "Boydâ€™s",
+            "en": "Boydâ€™s",
+            "slug": "boyd-s-kn14l001"
+          },
+          "code": {
+            "id": "KN14L001",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN14L002",
+          "name": {
+            "local": "Kit Stoddart",
+            "en": "Kit Stoddart",
+            "slug": "kit-stoddart-kn14l002"
+          },
+          "code": {
+            "id": "KN14L002",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN14L003",
+          "name": {
+            "local": "Brumaire",
+            "en": "Brumaire",
+            "slug": "brumaire-kn14l003"
+          },
+          "code": {
+            "id": "KN14L003",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN14L004",
+          "name": {
+            "local": "Limekiln",
+            "en": "Limekiln",
+            "slug": "limekiln-kn14l004"
+          },
+          "code": {
+            "id": "KN14L004",
+            "iso": null
+          }
+        },
+        {
+          "id": "KN14L005",
+          "name": {
+            "local": "Fortlands",
+            "en": "Fortlands",
+            "slug": "fortlands-kn14l005"
+          },
+          "code": {
+            "id": "KN14L005",
+            "iso": null
+          }
+        }
+      ]
+    }
+  ]
+}

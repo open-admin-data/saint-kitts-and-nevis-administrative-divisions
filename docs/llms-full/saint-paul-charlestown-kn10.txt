@@ -1,0 +1,24 @@
+# Saint Paul Charlestown — Saint Kitts and Nevis Administrative Divisions
+
+> 3 localitys
+> Code: KN10
+> Coordinates: 17.134, -62.609
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Bath
+
+Code: KN10L002, Coordinates: 17.13, -62.627
+
+
+### Charlestown
+
+Code: KN10L001, Coordinates: 17.133, -62.617
+
+
+### Church Ground
+
+Code: KN10L003, Coordinates: 17.133, -62.6
+
+

@@ -1,0 +1,33 @@
+{
+  "id": "KN10",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint Paul Charlestown",
+    "en": "Saint Paul Charlestown",
+    "slug": "saint-paul-charlestown-kn10"
+  },
+  "code": {
+    "id": "KN10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.134",
+    "lon": "-62.609"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-paul-charlestown-kn10/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

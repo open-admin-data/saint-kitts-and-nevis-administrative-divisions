@@ -1,0 +1,39 @@
+# Saint Kitts and Nevis Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Per-Parish Data Files
+
+- [Christ Church Nichola Town](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/christ-church-nichola-town-kn01.txt) — 9 localitys
+- [Saint Anne Sandy Point](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-anne-sandy-point-kn02.txt) — 4 localitys
+- [Saint George Basseterre](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-george-basseterre-kn03.txt) — 4 localitys
+- [Saint George Gingerland](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-george-gingerland-kn04.txt) — 18 localitys
+- [Saint James Windward](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-james-windward-kn05.txt) — 17 localitys
+- [Saint John Capisterre](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-john-capisterre-kn06.txt) — 8 localitys
+- [Saint John Figtree](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-john-figtree-kn07.txt) — 13 localitys
+- [Saint Mary Cayon](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-mary-cayon-kn08.txt) — 5 localitys
+- [Saint Paul Capisterre](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-paul-capisterre-kn09.txt) — 7 localitys
+- [Saint Paul Charlestown](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-paul-charlestown-kn10.txt) — 3 localitys
+- [Saint Peter Basseterre](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-peter-basseterre-kn11.txt) — 12 localitys
+- [Saint Thomas Lowland](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-thomas-lowland-kn12.txt) — 6 localitys
+- [Saint Thomas Middle Island](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/saint-thomas-middle-island-kn13.txt) — 8 localitys
+- [Trinity Palmetto Point](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/blob/main/docs/llms-full/trinity-palmetto-point-kn14.txt) — 5 localitys
+
+## Summary
+
+| Parish | Localitys | 
+|---|---|
+| Christ Church Nichola Town | 9 | 
+| Saint Anne Sandy Point | 4 | 
+| Saint George Basseterre | 4 | 
+| Saint George Gingerland | 18 | 
+| Saint James Windward | 17 | 
+| Saint John Capisterre | 8 | 
+| Saint John Figtree | 13 | 
+| Saint Mary Cayon | 5 | 
+| Saint Paul Capisterre | 7 | 
+| Saint Paul Charlestown | 3 | 
+| Saint Peter Basseterre | 12 | 
+| Saint Thomas Lowland | 6 | 
+| Saint Thomas Middle Island | 8 | 
+| Trinity Palmetto Point | 5 | 

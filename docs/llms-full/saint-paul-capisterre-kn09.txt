@@ -1,0 +1,44 @@
+# Saint Paul Capisterre — Saint Kitts and Nevis Administrative Divisions
+
+> 7 localitys
+> Code: KN09
+> Coordinates: 17.392, -62.831
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Heldens
+
+Code: KN09L004, Coordinates: 17.406, -62.837
+
+
+### Newton Ground
+
+Code: KN09L003, Coordinates: 17.388, -62.852
+
+
+### Ortons
+
+Code: KN09L006, Coordinates: 17.383, -62.833
+
+
+### Saint Paul&#39;s
+
+Code: KN09L002, Coordinates: 17.406, -62.836
+
+
+### St. Paul&#39;s
+
+Code: KN09L001, Coordinates: 17.398, -62.82
+
+
+### Trants
+
+Code: KN09L005, Coordinates: 17.383, -62.85
+
+
+### Whitegate
+
+Code: KN09L007, Coordinates: 17.417, -62.817
+
+

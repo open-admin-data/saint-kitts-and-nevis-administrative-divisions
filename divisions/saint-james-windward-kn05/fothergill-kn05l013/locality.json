@@ -1,0 +1,45 @@
+{
+  "id": "KN05L013",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Fothergill",
+    "en": "Fothergill",
+    "slug": "fothergill-kn05l013"
+  },
+  "code": {
+    "id": "KN05L013",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN05",
+    "level": 1,
+    "name": {
+      "local": "Saint James Windward",
+      "en": "Saint James Windward",
+      "slug": "saint-james-windward-kn05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.15",
+    "lon": "-62.55"
+  },
+  "metadata": {},
+  "source": {}
+}

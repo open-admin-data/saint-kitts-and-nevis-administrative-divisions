@@ -1,0 +1,182 @@
+[
+  {
+    "id": "KN03L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Guerite",
+      "en": "La Guerite",
+      "slug": "la-guerite-kn03l003"
+    },
+    "code": {
+      "id": "KN03L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN03",
+        "level": 1,
+        "name": {
+          "local": "Saint George Basseterre",
+          "en": "Saint George Basseterre",
+          "slug": "saint-george-basseterre-kn03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-62.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN03L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lucas",
+      "en": "Lucas",
+      "slug": "lucas-kn03l004"
+    },
+    "code": {
+      "id": "KN03L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN03",
+        "level": 1,
+        "name": {
+          "local": "Saint George Basseterre",
+          "en": "Saint George Basseterre",
+          "slug": "saint-george-basseterre-kn03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-62.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN03L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Monkey Hill",
+      "en": "Monkey Hill",
+      "slug": "monkey-hill-kn03l001"
+    },
+    "code": {
+      "id": "KN03L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN03",
+        "level": 1,
+        "name": {
+          "local": "Saint George Basseterre",
+          "en": "Saint George Basseterre",
+          "slug": "saint-george-basseterre-kn03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.298",
+      "lon": "-62.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN03L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Peter's",
+      "en": "Saint Peter's",
+      "slug": "saint-peter-s-kn03l002"
+    },
+    "code": {
+      "id": "KN03L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN03",
+        "level": 1,
+        "name": {
+          "local": "Saint George Basseterre",
+          "en": "Saint George Basseterre",
+          "slug": "saint-george-basseterre-kn03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.316",
+      "lon": "-62.729"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

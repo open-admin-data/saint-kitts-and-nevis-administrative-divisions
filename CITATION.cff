@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Saint Kitts and Nevis Administrative Divisions Dataset"
+version: "2026.07"
+date-released: "2026-07-08"
+url: "https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - saint kitts and nevis
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Saint Kitts and Nevis's administrative hierarchy:
+  14 parishs, 119 localitys.
+  Bilingual with coordinates and postal codes where available.

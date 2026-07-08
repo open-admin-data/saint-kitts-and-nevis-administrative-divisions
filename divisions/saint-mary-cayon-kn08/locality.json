@@ -1,0 +1,227 @@
+[
+  {
+    "id": "KN08L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bourryau",
+      "en": "Bourryau",
+      "slug": "bourryau-kn08l005"
+    },
+    "code": {
+      "id": "KN08L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cayon",
+      "en": "Cayon",
+      "slug": "cayon-kn08l001"
+    },
+    "code": {
+      "id": "KN08L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.35",
+      "lon": "-62.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hermitage",
+      "en": "Hermitage",
+      "slug": "hermitage-kn08l004"
+    },
+    "code": {
+      "id": "KN08L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.367",
+      "lon": "-62.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jack in the Box",
+      "en": "Jack in the Box",
+      "slug": "jack-in-the-box-kn08l002"
+    },
+    "code": {
+      "id": "KN08L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.35",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Key",
+      "en": "Key",
+      "slug": "key-kn08l003"
+    },
+    "code": {
+      "id": "KN08L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.342",
+      "lon": "-62.714"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

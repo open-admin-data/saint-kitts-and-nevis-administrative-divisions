@@ -1,0 +1,45 @@
+{
+  "id": "KN12L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Vaughans",
+    "en": "Vaughans",
+    "slug": "vaughans-kn12l002"
+  },
+  "code": {
+    "id": "KN12L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN12",
+    "level": 1,
+    "name": {
+      "local": "Saint Thomas Lowland",
+      "en": "Saint Thomas Lowland",
+      "slug": "saint-thomas-lowland-kn12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.164",
+    "lon": "-62.625"
+  },
+  "metadata": {},
+  "source": {}
+}

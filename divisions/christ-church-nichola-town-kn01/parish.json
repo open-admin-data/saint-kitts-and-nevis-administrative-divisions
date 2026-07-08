@@ -1,0 +1,33 @@
+{
+  "id": "KN01",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Christ Church Nichola Town",
+    "en": "Christ Church Nichola Town",
+    "slug": "christ-church-nichola-town-kn01"
+  },
+  "code": {
+    "id": "KN01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.356",
+    "lon": "-62.761"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/christ-church-nichola-town-kn01/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

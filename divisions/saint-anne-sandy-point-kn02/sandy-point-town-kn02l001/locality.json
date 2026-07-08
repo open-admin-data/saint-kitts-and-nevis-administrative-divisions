@@ -1,0 +1,45 @@
+{
+  "id": "KN02L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Sandy Point Town",
+    "en": "Sandy Point Town",
+    "slug": "sandy-point-town-kn02l001"
+  },
+  "code": {
+    "id": "KN02L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN02",
+    "level": 1,
+    "name": {
+      "local": "Saint Anne Sandy Point",
+      "en": "Saint Anne Sandy Point",
+      "slug": "saint-anne-sandy-point-kn02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN02",
+      "level": 1,
+      "name": {
+        "local": "Saint Anne Sandy Point",
+        "en": "Saint Anne Sandy Point",
+        "slug": "saint-anne-sandy-point-kn02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.348",
+    "lon": "-62.836"
+  },
+  "metadata": {},
+  "source": {}
+}

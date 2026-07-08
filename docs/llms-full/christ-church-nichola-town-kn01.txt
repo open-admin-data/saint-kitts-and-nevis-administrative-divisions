@@ -1,0 +1,54 @@
+# Christ Church Nichola Town — Saint Kitts and Nevis Administrative Divisions
+
+> 9 localitys
+> Code: KN01
+> Coordinates: 17.356, -62.761
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Bayford&#39;s
+
+Code: KN01L007, Coordinates: 17.334, -62.749
+
+
+### Gambles
+
+Code: KN01L001, Coordinates: 17.383, -62.767
+
+
+### Lodge
+
+Code: KN01L004, Coordinates: 17.364, -62.747
+
+
+### Mansion
+
+Code: KN01L003, Coordinates: 17.367, -62.75
+
+
+### Molineux
+
+Code: KN01L009, Coordinates: 17.37, -62.755
+
+
+### Nicola Town
+
+Code: KN01L008, Coordinates: 17.38, -62.753
+
+
+### Ottley&#39;s
+
+Code: KN01L006, Coordinates: 17.363, -62.743
+
+
+### Phillips
+
+Code: KN01L005, Coordinates: 17.366, -62.761
+
+
+### Tabernacle
+
+Code: KN01L002, Coordinates: 17.383, -62.767
+
+

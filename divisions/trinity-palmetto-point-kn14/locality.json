@@ -1,0 +1,227 @@
+[
+  {
+    "id": "KN14L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boydâ€™s",
+      "en": "Boydâ€™s",
+      "slug": "boyd-s-kn14l001"
+    },
+    "code": {
+      "id": "KN14L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.283",
+      "lon": "-62.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brumaire",
+      "en": "Brumaire",
+      "slug": "brumaire-kn14l003"
+    },
+    "code": {
+      "id": "KN14L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fortlands",
+      "en": "Fortlands",
+      "slug": "fortlands-kn14l005"
+    },
+    "code": {
+      "id": "KN14L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.292",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kit Stoddart",
+      "en": "Kit Stoddart",
+      "slug": "kit-stoddart-kn14l002"
+    },
+    "code": {
+      "id": "KN14L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.299",
+      "lon": "-62.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Limekiln",
+      "en": "Limekiln",
+      "slug": "limekiln-kn14l004"
+    },
+    "code": {
+      "id": "KN14L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.283",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

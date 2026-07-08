@@ -1,0 +1,45 @@
+{
+  "id": "KN07L005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Brown Pasture",
+    "en": "Brown Pasture",
+    "slug": "brown-pasture-kn07l005"
+  },
+  "code": {
+    "id": "KN07L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN07",
+    "level": 1,
+    "name": {
+      "local": "Saint John Figtree",
+      "en": "Saint John Figtree",
+      "slug": "saint-john-figtree-kn07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.132",
+    "lon": "-62.593"
+  },
+  "metadata": {},
+  "source": {}
+}

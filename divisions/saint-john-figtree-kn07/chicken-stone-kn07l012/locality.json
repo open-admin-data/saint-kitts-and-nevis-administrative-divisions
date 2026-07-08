@@ -1,0 +1,45 @@
+{
+  "id": "KN07L012",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Chicken Stone",
+    "en": "Chicken Stone",
+    "slug": "chicken-stone-kn07l012"
+  },
+  "code": {
+    "id": "KN07L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN07",
+    "level": 1,
+    "name": {
+      "local": "Saint John Figtree",
+      "en": "Saint John Figtree",
+      "slug": "saint-john-figtree-kn07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.132",
+    "lon": "-62.58"
+  },
+  "metadata": {},
+  "source": {}
+}

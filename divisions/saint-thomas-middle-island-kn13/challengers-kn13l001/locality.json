@@ -1,0 +1,45 @@
+{
+  "id": "KN13L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Challengers",
+    "en": "Challengers",
+    "slug": "challengers-kn13l001"
+  },
+  "code": {
+    "id": "KN13L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN13",
+    "level": 1,
+    "name": {
+      "local": "Saint Thomas Middle Island",
+      "en": "Saint Thomas Middle Island",
+      "slug": "saint-thomas-middle-island-kn13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.3",
+    "lon": "-62.783"
+  },
+  "metadata": {},
+  "source": {}
+}

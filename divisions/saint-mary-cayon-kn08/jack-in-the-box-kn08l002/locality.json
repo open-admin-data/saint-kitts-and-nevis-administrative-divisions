@@ -1,0 +1,45 @@
+{
+  "id": "KN08L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Jack in the Box",
+    "en": "Jack in the Box",
+    "slug": "jack-in-the-box-kn08l002"
+  },
+  "code": {
+    "id": "KN08L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN08",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary Cayon",
+      "en": "Saint Mary Cayon",
+      "slug": "saint-mary-cayon-kn08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.35",
+    "lon": "-62.733"
+  },
+  "metadata": {},
+  "source": {}
+}

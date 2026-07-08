@@ -1,0 +1,587 @@
+[
+  {
+    "id": "KN07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beaumont",
+      "en": "Beaumont",
+      "slug": "beaumont-kn07l009"
+    },
+    "code": {
+      "id": "KN07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.124",
+      "lon": "-62.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brown Hill",
+      "en": "Brown Hill",
+      "slug": "brown-hill-kn07l011"
+    },
+    "code": {
+      "id": "KN07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.121",
+      "lon": "-62.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brown Pasture",
+      "en": "Brown Pasture",
+      "slug": "brown-pasture-kn07l005"
+    },
+    "code": {
+      "id": "KN07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.132",
+      "lon": "-62.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chicken Stone",
+      "en": "Chicken Stone",
+      "slug": "chicken-stone-kn07l012"
+    },
+    "code": {
+      "id": "KN07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.132",
+      "lon": "-62.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cole Hill",
+      "en": "Cole Hill",
+      "slug": "cole-hill-kn07l008"
+    },
+    "code": {
+      "id": "KN07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.127",
+      "lon": "-62.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cox",
+      "en": "Cox",
+      "slug": "cox-kn07l004"
+    },
+    "code": {
+      "id": "KN07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.121",
+      "lon": "-62.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fig Tree",
+      "en": "Fig Tree",
+      "slug": "fig-tree-kn07l002"
+    },
+    "code": {
+      "id": "KN07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.117",
+      "lon": "-62.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hermitage",
+      "en": "Hermitage",
+      "slug": "hermitage-kn07l013"
+    },
+    "code": {
+      "id": "KN07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "-62.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hull Ground",
+      "en": "Hull Ground",
+      "slug": "hull-ground-kn07l001"
+    },
+    "code": {
+      "id": "KN07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.142",
+      "lon": "-62.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Montpelier",
+      "en": "Montpelier",
+      "slug": "montpelier-kn07l003"
+    },
+    "code": {
+      "id": "KN07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.117",
+      "lon": "-62.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pembroke",
+      "en": "Pembroke",
+      "slug": "pembroke-kn07l006"
+    },
+    "code": {
+      "id": "KN07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.116",
+      "lon": "-62.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pond Hill",
+      "en": "Pond Hill",
+      "slug": "pond-hill-kn07l010"
+    },
+    "code": {
+      "id": "KN07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.128",
+      "lon": "-62.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taylors Pasture",
+      "en": "Taylors Pasture",
+      "slug": "taylors-pasture-kn07l007"
+    },
+    "code": {
+      "id": "KN07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.13",
+      "lon": "-62.575"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

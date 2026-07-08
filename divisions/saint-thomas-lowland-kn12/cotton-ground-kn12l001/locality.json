@@ -1,0 +1,45 @@
+{
+  "id": "KN12L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cotton Ground",
+    "en": "Cotton Ground",
+    "slug": "cotton-ground-kn12l001"
+  },
+  "code": {
+    "id": "KN12L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN12",
+    "level": 1,
+    "name": {
+      "local": "Saint Thomas Lowland",
+      "en": "Saint Thomas Lowland",
+      "slug": "saint-thomas-lowland-kn12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.167",
+    "lon": "-62.617"
+  },
+  "metadata": {},
+  "source": {}
+}

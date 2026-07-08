@@ -1,0 +1,33 @@
+{
+  "id": "KN06",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint John Capisterre",
+    "en": "Saint John Capisterre",
+    "slug": "saint-john-capisterre-kn06"
+  },
+  "code": {
+    "id": "KN06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.381",
+    "lon": "-62.793"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-john-capisterre-kn06/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

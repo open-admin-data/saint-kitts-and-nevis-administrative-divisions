@@ -1,0 +1,45 @@
+{
+  "id": "KN05L007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Brick Kiln",
+    "en": "Brick Kiln",
+    "slug": "brick-kiln-kn05l007"
+  },
+  "code": {
+    "id": "KN05L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN05",
+    "level": 1,
+    "name": {
+      "local": "Saint James Windward",
+      "en": "Saint James Windward",
+      "slug": "saint-james-windward-kn05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.175",
+    "lon": "-62.553"
+  },
+  "metadata": {},
+  "source": {}
+}

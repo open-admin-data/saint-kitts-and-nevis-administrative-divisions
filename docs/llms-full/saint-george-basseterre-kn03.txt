@@ -1,0 +1,29 @@
+# Saint George Basseterre — Saint Kitts and Nevis Administrative Divisions
+
+> 4 localitys
+> Code: KN03
+> Coordinates: 17.243, -62.648
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### La Guerite
+
+Code: KN03L003, Coordinates: 17.3, -62.717
+
+
+### Lucas
+
+Code: KN03L004, Coordinates: 17.3, -62.7
+
+
+### Monkey Hill
+
+Code: KN03L001, Coordinates: 17.298, -62.693
+
+
+### Saint Peter&#39;s
+
+Code: KN03L002, Coordinates: 17.316, -62.729
+
+

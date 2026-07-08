@@ -1,0 +1,45 @@
+{
+  "id": "KN01L004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lodge",
+    "en": "Lodge",
+    "slug": "lodge-kn01l004"
+  },
+  "code": {
+    "id": "KN01L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN01",
+    "level": 1,
+    "name": {
+      "local": "Christ Church Nichola Town",
+      "en": "Christ Church Nichola Town",
+      "slug": "christ-church-nichola-town-kn01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.364",
+    "lon": "-62.747"
+  },
+  "metadata": {},
+  "source": {}
+}

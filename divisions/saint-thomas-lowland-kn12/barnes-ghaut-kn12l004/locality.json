@@ -1,0 +1,45 @@
+{
+  "id": "KN12L004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Barnes Ghaut",
+    "en": "Barnes Ghaut",
+    "slug": "barnes-ghaut-kn12l004"
+  },
+  "code": {
+    "id": "KN12L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN12",
+    "level": 1,
+    "name": {
+      "local": "Saint Thomas Lowland",
+      "en": "Saint Thomas Lowland",
+      "slug": "saint-thomas-lowland-kn12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.168",
+    "lon": "-62.611"
+  },
+  "metadata": {},
+  "source": {}
+}

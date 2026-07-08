@@ -1,0 +1,467 @@
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/kn/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions",
+  "data": [
+    {
+      "id": "KN01",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      },
+      "code": {
+        "id": "KN01",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 9
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.356",
+        "lon": "-62.761"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/christ-church-nichola-town-kn01/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN02",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint Anne Sandy Point",
+        "en": "Saint Anne Sandy Point",
+        "slug": "saint-anne-sandy-point-kn02"
+      },
+      "code": {
+        "id": "KN02",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.358",
+        "lon": "-62.836"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-anne-sandy-point-kn02/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN03",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      },
+      "code": {
+        "id": "KN03",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 4
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.243",
+        "lon": "-62.648"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-george-basseterre-kn03/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN04",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      },
+      "code": {
+        "id": "KN04",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 18
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.128",
+        "lon": "-62.555"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-george-gingerland-kn04/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN05",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      },
+      "code": {
+        "id": "KN05",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 17
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.174",
+        "lon": "-62.568"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-james-windward-kn05/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN06",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      },
+      "code": {
+        "id": "KN06",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.381",
+        "lon": "-62.793"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-john-capisterre-kn06/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN07",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      },
+      "code": {
+        "id": "KN07",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 13
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.118",
+        "lon": "-62.592"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-john-figtree-kn07/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN08",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      },
+      "code": {
+        "id": "KN08",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.35",
+        "lon": "-62.73"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-mary-cayon-kn08/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN09",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      },
+      "code": {
+        "id": "KN09",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 7
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.392",
+        "lon": "-62.831"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-paul-capisterre-kn09/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN10",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint Paul Charlestown",
+        "en": "Saint Paul Charlestown",
+        "slug": "saint-paul-charlestown-kn10"
+      },
+      "code": {
+        "id": "KN10",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 3
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.134",
+        "lon": "-62.609"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-paul-charlestown-kn10/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN11",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      },
+      "code": {
+        "id": "KN11",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 12
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.325",
+        "lon": "-62.707"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-peter-basseterre-kn11/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN12",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      },
+      "code": {
+        "id": "KN12",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 6
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.159",
+        "lon": "-62.605"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-thomas-lowland-kn12/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN13",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      },
+      "code": {
+        "id": "KN13",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 8
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.332",
+        "lon": "-62.798"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/saint-thomas-middle-island-kn13/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    },
+    {
+      "id": "KN14",
+      "level": 1,
+      "level_name": {
+        "local": "Parish",
+        "en": "Parish"
+      },
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      },
+      "code": {
+        "id": "KN14",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "locality": 5
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "17.307",
+        "lon": "-62.747"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kn/parishes/trinity-palmetto-point-kn14/",
+        "api": "https://openadmindata.org/api/kn/"
+      }
+    }
+  ]
+}

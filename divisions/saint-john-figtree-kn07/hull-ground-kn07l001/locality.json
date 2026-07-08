@@ -1,0 +1,45 @@
+{
+  "id": "KN07L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hull Ground",
+    "en": "Hull Ground",
+    "slug": "hull-ground-kn07l001"
+  },
+  "code": {
+    "id": "KN07L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN07",
+    "level": 1,
+    "name": {
+      "local": "Saint John Figtree",
+      "en": "Saint John Figtree",
+      "slug": "saint-john-figtree-kn07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.142",
+    "lon": "-62.58"
+  },
+  "metadata": {},
+  "source": {}
+}

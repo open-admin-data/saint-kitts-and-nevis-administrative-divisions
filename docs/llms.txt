@@ -1,0 +1,78 @@
+# Saint Kitts and Nevis Administrative Divisions
+
+> Open dataset of Saint Kitts and Nevis's administrative hierarchy:
+> 14 parishs, 119 localitys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total parishs: 14
+- Total localitys: 119
+- Coordinates: included (all levels)
+- Last updated: 2026-07-08
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All parishs (JSON)](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/data/all-parish.json)
+- [All localitys (JSON)](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/data/all-locality.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/data/schema.json)
+
+## Browse by Parish
+
+- [Christ Church Nichola Town](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/christ-church-nichola-town-kn01/) — 9 localitys
+- [Saint Anne Sandy Point](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-anne-sandy-point-kn02/) — 4 localitys
+- [Saint George Basseterre](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-george-basseterre-kn03/) — 4 localitys
+- [Saint George Gingerland](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-george-gingerland-kn04/) — 18 localitys
+- [Saint James Windward](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-james-windward-kn05/) — 17 localitys
+- [Saint John Capisterre](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-john-capisterre-kn06/) — 8 localitys
+- [Saint John Figtree](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-john-figtree-kn07/) — 13 localitys
+- [Saint Mary Cayon](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-mary-cayon-kn08/) — 5 localitys
+- [Saint Paul Capisterre](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-paul-capisterre-kn09/) — 7 localitys
+- [Saint Paul Charlestown](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-paul-charlestown-kn10/) — 3 localitys
+- [Saint Peter Basseterre](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-peter-basseterre-kn11/) — 12 localitys
+- [Saint Thomas Lowland](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-thomas-lowland-kn12/) — 6 localitys
+- [Saint Thomas Middle Island](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/saint-thomas-middle-island-kn13/) — 8 localitys
+- [Trinity Palmetto Point](https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/tree/main/divisions/trinity-palmetto-point-kn14/) — 5 localitys
+
+## Per-Parish Full Data
+
+- [Christ Church Nichola Town](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/christ-church-nichola-town-kn01.txt)
+- [Saint Anne Sandy Point](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-anne-sandy-point-kn02.txt)
+- [Saint George Basseterre](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-george-basseterre-kn03.txt)
+- [Saint George Gingerland](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-george-gingerland-kn04.txt)
+- [Saint James Windward](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-james-windward-kn05.txt)
+- [Saint John Capisterre](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-john-capisterre-kn06.txt)
+- [Saint John Figtree](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-john-figtree-kn07.txt)
+- [Saint Mary Cayon](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-mary-cayon-kn08.txt)
+- [Saint Paul Capisterre](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-paul-capisterre-kn09.txt)
+- [Saint Paul Charlestown](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-paul-charlestown-kn10.txt)
+- [Saint Peter Basseterre](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-peter-basseterre-kn11.txt)
+- [Saint Thomas Lowland](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-thomas-lowland-kn12.txt)
+- [Saint Thomas Middle Island](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/saint-thomas-middle-island-kn13.txt)
+- [Trinity Palmetto Point](https://raw.githubusercontent.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions/main/docs/llms-full/trinity-palmetto-point-kn14.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (parish), 2 (locality)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Saint Kitts and Nevis Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/saint-kitts-and-nevis-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

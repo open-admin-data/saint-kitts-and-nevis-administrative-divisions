@@ -1,0 +1,45 @@
+{
+  "id": "KN04L006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Buck's Hill",
+    "en": "Buck's Hill",
+    "slug": "buck-s-hill-kn04l006"
+  },
+  "code": {
+    "id": "KN04L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN04",
+    "level": 1,
+    "name": {
+      "local": "Saint George Gingerland",
+      "en": "Saint George Gingerland",
+      "slug": "saint-george-gingerland-kn04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.126",
+    "lon": "-62.564"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KN07L008",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cole Hill",
+    "en": "Cole Hill",
+    "slug": "cole-hill-kn07l008"
+  },
+  "code": {
+    "id": "KN07L008",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN07",
+    "level": 1,
+    "name": {
+      "local": "Saint John Figtree",
+      "en": "Saint John Figtree",
+      "slug": "saint-john-figtree-kn07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.127",
+    "lon": "-62.588"
+  },
+  "metadata": {},
+  "source": {}
+}

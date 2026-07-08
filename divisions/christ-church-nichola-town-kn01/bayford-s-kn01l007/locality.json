@@ -1,0 +1,45 @@
+{
+  "id": "KN01L007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Bayford's",
+    "en": "Bayford's",
+    "slug": "bayford-s-kn01l007"
+  },
+  "code": {
+    "id": "KN01L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN01",
+    "level": 1,
+    "name": {
+      "local": "Christ Church Nichola Town",
+      "en": "Christ Church Nichola Town",
+      "slug": "christ-church-nichola-town-kn01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.334",
+    "lon": "-62.749"
+  },
+  "metadata": {},
+  "source": {}
+}

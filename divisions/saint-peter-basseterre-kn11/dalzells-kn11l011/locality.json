@@ -1,0 +1,45 @@
+{
+  "id": "KN11L011",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Dalzells",
+    "en": "Dalzells",
+    "slug": "dalzells-kn11l011"
+  },
+  "code": {
+    "id": "KN11L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN11",
+    "level": 1,
+    "name": {
+      "local": "Saint Peter Basseterre",
+      "en": "Saint Peter Basseterre",
+      "slug": "saint-peter-basseterre-kn11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.35",
+    "lon": "-62.7"
+  },
+  "metadata": {},
+  "source": {}
+}

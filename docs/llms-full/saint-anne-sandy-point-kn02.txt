@@ -1,0 +1,29 @@
+# Saint Anne Sandy Point — Saint Kitts and Nevis Administrative Divisions
+
+> 4 localitys
+> Code: KN02
+> Coordinates: 17.358, -62.836
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Burts
+
+Code: KN02L003, Coordinates: 17.367, -62.817
+
+
+### Fig Tree
+
+Code: KN02L004, Coordinates: 17.367, -62.858
+
+
+### Sandy Point Town
+
+Code: KN02L001, Coordinates: 17.348, -62.836
+
+
+### Sandy Point Town
+
+Code: KN02L002, Coordinates: 17.35, -62.833
+
+

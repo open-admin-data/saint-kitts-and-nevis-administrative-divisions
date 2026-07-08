@@ -1,0 +1,45 @@
+{
+  "id": "KN11L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Canada",
+    "en": "Canada",
+    "slug": "canada-kn11l003"
+  },
+  "code": {
+    "id": "KN11L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN11",
+    "level": 1,
+    "name": {
+      "local": "Saint Peter Basseterre",
+      "en": "Saint Peter Basseterre",
+      "slug": "saint-peter-basseterre-kn11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.333",
+    "lon": "-62.7"
+  },
+  "metadata": {},
+  "source": {}
+}

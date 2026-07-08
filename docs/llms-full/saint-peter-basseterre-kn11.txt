@@ -1,0 +1,69 @@
+# Saint Peter Basseterre — Saint Kitts and Nevis Administrative Divisions
+
+> 12 localitys
+> Code: KN11
+> Coordinates: 17.325, -62.707
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Canada
+
+Code: KN11L003, Coordinates: 17.333, -62.7
+
+
+### Dalzells
+
+Code: KN11L011, Coordinates: 17.35, -62.7
+
+
+### Douglas
+
+Code: KN11L005, Coordinates: 17.317, -62.717
+
+
+### Golden Rock
+
+Code: KN11L009, Coordinates: 17.317, -62.717
+
+
+### Greatheeds
+
+Code: KN11L007, Coordinates: 17.317, -62.7
+
+
+### John England Village
+
+Code: KN11L008, Coordinates: 17.321, -62.729
+
+
+### Kittitian Village
+
+Code: KN11L002, Coordinates: 17.291, -62.687
+
+
+### Mardenbrough
+
+Code: KN11L006, Coordinates: 17.317, -62.717
+
+
+### Ogee&#39;s
+
+Code: KN11L004, Coordinates: 17.33, -62.733
+
+
+### Parrys
+
+Code: KN11L001, Coordinates: 17.317, -62.717
+
+
+### Stapleton
+
+Code: KN11L010, Coordinates: 17.327, -62.731
+
+
+### Upper Conaree
+
+Code: KN11L012, Coordinates: 17.315, -62.707
+
+

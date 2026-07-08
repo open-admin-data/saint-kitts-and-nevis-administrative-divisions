@@ -1,0 +1,45 @@
+{
+  "id": "KN09L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "St. Paul's",
+    "en": "St. Paul's",
+    "slug": "st-paul-s-kn09l001"
+  },
+  "code": {
+    "id": "KN09L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN09",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul Capisterre",
+      "en": "Saint Paul Capisterre",
+      "slug": "saint-paul-capisterre-kn09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.398",
+    "lon": "-62.82"
+  },
+  "metadata": {},
+  "source": {}
+}

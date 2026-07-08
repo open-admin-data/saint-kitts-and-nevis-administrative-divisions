@@ -1,0 +1,407 @@
+[
+  {
+    "id": "KN01L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bayford's",
+      "en": "Bayford's",
+      "slug": "bayford-s-kn01l007"
+    },
+    "code": {
+      "id": "KN01L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.334",
+      "lon": "-62.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gambles",
+      "en": "Gambles",
+      "slug": "gambles-kn01l001"
+    },
+    "code": {
+      "id": "KN01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lodge",
+      "en": "Lodge",
+      "slug": "lodge-kn01l004"
+    },
+    "code": {
+      "id": "KN01L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.364",
+      "lon": "-62.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mansion",
+      "en": "Mansion",
+      "slug": "mansion-kn01l003"
+    },
+    "code": {
+      "id": "KN01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.367",
+      "lon": "-62.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Molineux",
+      "en": "Molineux",
+      "slug": "molineux-kn01l009"
+    },
+    "code": {
+      "id": "KN01L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.37",
+      "lon": "-62.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nicola Town",
+      "en": "Nicola Town",
+      "slug": "nicola-town-kn01l008"
+    },
+    "code": {
+      "id": "KN01L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.38",
+      "lon": "-62.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ottley's",
+      "en": "Ottley's",
+      "slug": "ottley-s-kn01l006"
+    },
+    "code": {
+      "id": "KN01L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.363",
+      "lon": "-62.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Phillips",
+      "en": "Phillips",
+      "slug": "phillips-kn01l005"
+    },
+    "code": {
+      "id": "KN01L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.366",
+      "lon": "-62.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabernacle",
+      "en": "Tabernacle",
+      "slug": "tabernacle-kn01l002"
+    },
+    "code": {
+      "id": "KN01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.767"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

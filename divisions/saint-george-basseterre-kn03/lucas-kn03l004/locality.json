@@ -1,0 +1,45 @@
+{
+  "id": "KN03L004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Lucas",
+    "en": "Lucas",
+    "slug": "lucas-kn03l004"
+  },
+  "code": {
+    "id": "KN03L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN03",
+    "level": 1,
+    "name": {
+      "local": "Saint George Basseterre",
+      "en": "Saint George Basseterre",
+      "slug": "saint-george-basseterre-kn03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.3",
+    "lon": "-62.7"
+  },
+  "metadata": {},
+  "source": {}
+}

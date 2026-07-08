@@ -1,0 +1,74 @@
+# Saint John Figtree — Saint Kitts and Nevis Administrative Divisions
+
+> 13 localitys
+> Code: KN07
+> Coordinates: 17.118, -62.592
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Beaumont
+
+Code: KN07L009, Coordinates: 17.124, -62.581
+
+
+### Brown Hill
+
+Code: KN07L011, Coordinates: 17.121, -62.602
+
+
+### Brown Pasture
+
+Code: KN07L005, Coordinates: 17.132, -62.593
+
+
+### Chicken Stone
+
+Code: KN07L012, Coordinates: 17.132, -62.58
+
+
+### Cole Hill
+
+Code: KN07L008, Coordinates: 17.127, -62.588
+
+
+### Cox
+
+Code: KN07L004, Coordinates: 17.121, -62.584
+
+
+### Fig Tree
+
+Code: KN07L002, Coordinates: 17.117, -62.6
+
+
+### Hermitage
+
+Code: KN07L013, Coordinates: 17.133, -62.581
+
+
+### Hull Ground
+
+Code: KN07L001, Coordinates: 17.142, -62.58
+
+
+### Montpelier
+
+Code: KN07L003, Coordinates: 17.117, -62.583
+
+
+### Pembroke
+
+Code: KN07L006, Coordinates: 17.116, -62.6
+
+
+### Pond Hill
+
+Code: KN07L010, Coordinates: 17.128, -62.582
+
+
+### Taylors Pasture
+
+Code: KN07L007, Coordinates: 17.13, -62.575
+
+

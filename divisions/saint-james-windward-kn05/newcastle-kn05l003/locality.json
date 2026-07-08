@@ -1,0 +1,45 @@
+{
+  "id": "KN05L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Newcastle",
+    "en": "Newcastle",
+    "slug": "newcastle-kn05l003"
+  },
+  "code": {
+    "id": "KN05L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN05",
+    "level": 1,
+    "name": {
+      "local": "Saint James Windward",
+      "en": "Saint James Windward",
+      "slug": "saint-james-windward-kn05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.2",
+    "lon": "-62.583"
+  },
+  "metadata": {},
+  "source": {}
+}

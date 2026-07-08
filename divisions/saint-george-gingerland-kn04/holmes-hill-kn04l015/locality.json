@@ -1,0 +1,45 @@
+{
+  "id": "KN04L015",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Holmes Hill",
+    "en": "Holmes Hill",
+    "slug": "holmes-hill-kn04l015"
+  },
+  "code": {
+    "id": "KN04L015",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN04",
+    "level": 1,
+    "name": {
+      "local": "Saint George Gingerland",
+      "en": "Saint George Gingerland",
+      "slug": "saint-george-gingerland-kn04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.119",
+    "lon": "-62.558"
+  },
+  "metadata": {},
+  "source": {}
+}

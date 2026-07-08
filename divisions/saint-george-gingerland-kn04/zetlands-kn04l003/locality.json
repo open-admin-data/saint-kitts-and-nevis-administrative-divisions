@@ -1,0 +1,45 @@
+{
+  "id": "KN04L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Zetlands",
+    "en": "Zetlands",
+    "slug": "zetlands-kn04l003"
+  },
+  "code": {
+    "id": "KN04L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN04",
+    "level": 1,
+    "name": {
+      "local": "Saint George Gingerland",
+      "en": "Saint George Gingerland",
+      "slug": "saint-george-gingerland-kn04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.139",
+    "lon": "-62.576"
+  },
+  "metadata": {},
+  "source": {}
+}

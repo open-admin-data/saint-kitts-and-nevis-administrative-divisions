@@ -1,0 +1,5357 @@
+[
+  {
+    "id": "KN11L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Parrys",
+      "en": "Parrys",
+      "slug": "parrys-kn11l001"
+    },
+    "code": {
+      "id": "KN11L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "-62.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN06L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saunders",
+      "en": "Saunders",
+      "slug": "saunders-kn06l001"
+    },
+    "code": {
+      "id": "KN06L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN06",
+        "level": 1,
+        "name": {
+          "local": "Saint John Capisterre",
+          "en": "Saint John Capisterre",
+          "slug": "saint-john-capisterre-kn06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.4",
+      "lon": "-62.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN13L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Challengers",
+      "en": "Challengers",
+      "slug": "challengers-kn13l001"
+    },
+    "code": {
+      "id": "KN13L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN13",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Middle Island",
+          "en": "Saint Thomas Middle Island",
+          "slug": "saint-thomas-middle-island-kn13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-62.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hull Ground",
+      "en": "Hull Ground",
+      "slug": "hull-ground-kn07l001"
+    },
+    "code": {
+      "id": "KN07L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.142",
+      "lon": "-62.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN10L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Charlestown",
+      "en": "Charlestown",
+      "slug": "charlestown-kn10l001"
+    },
+    "code": {
+      "id": "KN10L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN10",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Charlestown",
+        "en": "Saint Paul Charlestown",
+        "slug": "saint-paul-charlestown-kn10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN10",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Charlestown",
+          "en": "Saint Paul Charlestown",
+          "slug": "saint-paul-charlestown-kn10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "-62.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mannings",
+      "en": "Mannings",
+      "slug": "mannings-kn05l001"
+    },
+    "code": {
+      "id": "KN05L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.17",
+      "lon": "-62.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rawlins",
+      "en": "Rawlins",
+      "slug": "rawlins-kn05l002"
+    },
+    "code": {
+      "id": "KN05L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.167",
+      "lon": "-62.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN03L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Monkey Hill",
+      "en": "Monkey Hill",
+      "slug": "monkey-hill-kn03l001"
+    },
+    "code": {
+      "id": "KN03L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN03",
+        "level": 1,
+        "name": {
+          "local": "Saint George Basseterre",
+          "en": "Saint George Basseterre",
+          "slug": "saint-george-basseterre-kn03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.298",
+      "lon": "-62.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN02L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sandy Point Town",
+      "en": "Sandy Point Town",
+      "slug": "sandy-point-town-kn02l001"
+    },
+    "code": {
+      "id": "KN02L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN02",
+      "level": 1,
+      "name": {
+        "local": "Saint Anne Sandy Point",
+        "en": "Saint Anne Sandy Point",
+        "slug": "saint-anne-sandy-point-kn02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN02",
+        "level": 1,
+        "name": {
+          "local": "Saint Anne Sandy Point",
+          "en": "Saint Anne Sandy Point",
+          "slug": "saint-anne-sandy-point-kn02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.348",
+      "lon": "-62.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN09L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "St. Paul's",
+      "en": "St. Paul's",
+      "slug": "st-paul-s-kn09l001"
+    },
+    "code": {
+      "id": "KN09L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN09",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Capisterre",
+          "en": "Saint Paul Capisterre",
+          "slug": "saint-paul-capisterre-kn09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.398",
+      "lon": "-62.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cayon",
+      "en": "Cayon",
+      "slug": "cayon-kn08l001"
+    },
+    "code": {
+      "id": "KN08L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.35",
+      "lon": "-62.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gambles",
+      "en": "Gambles",
+      "slug": "gambles-kn01l001"
+    },
+    "code": {
+      "id": "KN01L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Tabernacle",
+      "en": "Tabernacle",
+      "slug": "tabernacle-kn01l002"
+    },
+    "code": {
+      "id": "KN01L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fig Tree",
+      "en": "Fig Tree",
+      "slug": "fig-tree-kn07l002"
+    },
+    "code": {
+      "id": "KN07L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.117",
+      "lon": "-62.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mansion",
+      "en": "Mansion",
+      "slug": "mansion-kn01l003"
+    },
+    "code": {
+      "id": "KN01L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.367",
+      "lon": "-62.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stonyhill",
+      "en": "Stonyhill",
+      "slug": "stonyhill-kn04l001"
+    },
+    "code": {
+      "id": "KN04L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.14",
+      "lon": "-62.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Newcastle",
+      "en": "Newcastle",
+      "slug": "newcastle-kn05l003"
+    },
+    "code": {
+      "id": "KN05L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.2",
+      "lon": "-62.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN13L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Middle Island",
+      "en": "Middle Island",
+      "slug": "middle-island-kn13l002"
+    },
+    "code": {
+      "id": "KN13L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN13",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Middle Island",
+          "en": "Saint Thomas Middle Island",
+          "slug": "saint-thomas-middle-island-kn13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "-62.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN06L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dieppe Bay Town",
+      "en": "Dieppe Bay Town",
+      "slug": "dieppe-bay-town-kn06l002"
+    },
+    "code": {
+      "id": "KN06L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN06",
+        "level": 1,
+        "name": {
+          "local": "Saint John Capisterre",
+          "en": "Saint John Capisterre",
+          "slug": "saint-john-capisterre-kn06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.413",
+      "lon": "-62.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN02L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sandy Point Town",
+      "en": "Sandy Point Town",
+      "slug": "sandy-point-town-kn02l002"
+    },
+    "code": {
+      "id": "KN02L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN02",
+      "level": 1,
+      "name": {
+        "local": "Saint Anne Sandy Point",
+        "en": "Saint Anne Sandy Point",
+        "slug": "saint-anne-sandy-point-kn02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN02",
+        "level": 1,
+        "name": {
+          "local": "Saint Anne Sandy Point",
+          "en": "Saint Anne Sandy Point",
+          "slug": "saint-anne-sandy-point-kn02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.35",
+      "lon": "-62.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Gingerland",
+      "en": "Gingerland",
+      "slug": "gingerland-kn04l002"
+    },
+    "code": {
+      "id": "KN04L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "-62.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Boydâ€™s",
+      "en": "Boydâ€™s",
+      "slug": "boyd-s-kn14l001"
+    },
+    "code": {
+      "id": "KN14L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.283",
+      "lon": "-62.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN12L001",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cotton Ground",
+      "en": "Cotton Ground",
+      "slug": "cotton-ground-kn12l001"
+    },
+    "code": {
+      "id": "KN12L001",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN12",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Lowland",
+          "en": "Saint Thomas Lowland",
+          "slug": "saint-thomas-lowland-kn12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.167",
+      "lon": "-62.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN06L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Parson's Ground",
+      "en": "Parson's Ground",
+      "slug": "parson-s-ground-kn06l003"
+    },
+    "code": {
+      "id": "KN06L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN06",
+        "level": 1,
+        "name": {
+          "local": "Saint John Capisterre",
+          "en": "Saint John Capisterre",
+          "slug": "saint-john-capisterre-kn06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.409",
+      "lon": "-62.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN09L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Paul's",
+      "en": "Saint Paul's",
+      "slug": "saint-paul-s-kn09l002"
+    },
+    "code": {
+      "id": "KN09L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN09",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Capisterre",
+          "en": "Saint Paul Capisterre",
+          "slug": "saint-paul-capisterre-kn09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.406",
+      "lon": "-62.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zetlands",
+      "en": "Zetlands",
+      "slug": "zetlands-kn04l003"
+    },
+    "code": {
+      "id": "KN04L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.139",
+      "lon": "-62.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kittitian Village",
+      "en": "Kittitian Village",
+      "slug": "kittitian-village-kn11l002"
+    },
+    "code": {
+      "id": "KN11L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.291",
+      "lon": "-62.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN12L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Vaughans",
+      "en": "Vaughans",
+      "slug": "vaughans-kn12l002"
+    },
+    "code": {
+      "id": "KN12L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN12",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Lowland",
+          "en": "Saint Thomas Lowland",
+          "slug": "saint-thomas-lowland-kn12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.164",
+      "lon": "-62.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lodge",
+      "en": "Lodge",
+      "slug": "lodge-kn01l004"
+    },
+    "code": {
+      "id": "KN01L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.364",
+      "lon": "-62.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Harris",
+      "en": "Harris",
+      "slug": "harris-kn04l004"
+    },
+    "code": {
+      "id": "KN04L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.146",
+      "lon": "-62.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Kit Stoddart",
+      "en": "Kit Stoddart",
+      "slug": "kit-stoddart-kn14l002"
+    },
+    "code": {
+      "id": "KN14L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.299",
+      "lon": "-62.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Montpelier",
+      "en": "Montpelier",
+      "slug": "montpelier-kn07l003"
+    },
+    "code": {
+      "id": "KN07L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.117",
+      "lon": "-62.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Barnabys Village",
+      "en": "Barnabys Village",
+      "slug": "barnabys-village-kn05l004"
+    },
+    "code": {
+      "id": "KN05L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.2",
+      "lon": "-62.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hichmans",
+      "en": "Hichmans",
+      "slug": "hichmans-kn04l005"
+    },
+    "code": {
+      "id": "KN04L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.138",
+      "lon": "-62.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN09L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Newton Ground",
+      "en": "Newton Ground",
+      "slug": "newton-ground-kn09l003"
+    },
+    "code": {
+      "id": "KN09L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN09",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Capisterre",
+          "en": "Saint Paul Capisterre",
+          "slug": "saint-paul-capisterre-kn09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.388",
+      "lon": "-62.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cox",
+      "en": "Cox",
+      "slug": "cox-kn07l004"
+    },
+    "code": {
+      "id": "KN07L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.121",
+      "lon": "-62.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN12L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jessup",
+      "en": "Jessup",
+      "slug": "jessup-kn12l003"
+    },
+    "code": {
+      "id": "KN12L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN12",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Lowland",
+          "en": "Saint Thomas Lowland",
+          "slug": "saint-thomas-lowland-kn12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.162",
+      "lon": "-62.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN06L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brownes",
+      "en": "Brownes",
+      "slug": "brownes-kn06l004"
+    },
+    "code": {
+      "id": "KN06L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN06",
+        "level": 1,
+        "name": {
+          "local": "Saint John Capisterre",
+          "en": "Saint John Capisterre",
+          "slug": "saint-john-capisterre-kn06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.4",
+      "lon": "-62.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN02L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Burts",
+      "en": "Burts",
+      "slug": "burts-kn02l003"
+    },
+    "code": {
+      "id": "KN02L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN02",
+      "level": 1,
+      "name": {
+        "local": "Saint Anne Sandy Point",
+        "en": "Saint Anne Sandy Point",
+        "slug": "saint-anne-sandy-point-kn02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN02",
+        "level": 1,
+        "name": {
+          "local": "Saint Anne Sandy Point",
+          "en": "Saint Anne Sandy Point",
+          "slug": "saint-anne-sandy-point-kn02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.367",
+      "lon": "-62.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Burnaby",
+      "en": "Burnaby",
+      "slug": "burnaby-kn05l005"
+    },
+    "code": {
+      "id": "KN05L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.196",
+      "lon": "-62.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN13L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Half Way Tree",
+      "en": "Half Way Tree",
+      "slug": "half-way-tree-kn13l003"
+    },
+    "code": {
+      "id": "KN13L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN13",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Middle Island",
+          "en": "Saint Thomas Middle Island",
+          "slug": "saint-thomas-middle-island-kn13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.333",
+      "lon": "-62.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mount Lily",
+      "en": "Mount Lily",
+      "slug": "mount-lily-kn05l006"
+    },
+    "code": {
+      "id": "KN05L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.186",
+      "lon": "-62.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Canada",
+      "en": "Canada",
+      "slug": "canada-kn11l003"
+    },
+    "code": {
+      "id": "KN11L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.333",
+      "lon": "-62.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brown Pasture",
+      "en": "Brown Pasture",
+      "slug": "brown-pasture-kn07l005"
+    },
+    "code": {
+      "id": "KN07L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.132",
+      "lon": "-62.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pembroke",
+      "en": "Pembroke",
+      "slug": "pembroke-kn07l006"
+    },
+    "code": {
+      "id": "KN07L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.116",
+      "lon": "-62.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ogee's",
+      "en": "Ogee's",
+      "slug": "ogee-s-kn11l004"
+    },
+    "code": {
+      "id": "KN11L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.33",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN06L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Geagans",
+      "en": "Geagans",
+      "slug": "geagans-kn06l005"
+    },
+    "code": {
+      "id": "KN06L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN06",
+        "level": 1,
+        "name": {
+          "local": "Saint John Capisterre",
+          "en": "Saint John Capisterre",
+          "slug": "saint-john-capisterre-kn06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Jack in the Box",
+      "en": "Jack in the Box",
+      "slug": "jack-in-the-box-kn08l002"
+    },
+    "code": {
+      "id": "KN08L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.35",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Taylors Pasture",
+      "en": "Taylors Pasture",
+      "slug": "taylors-pasture-kn07l007"
+    },
+    "code": {
+      "id": "KN07L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.13",
+      "lon": "-62.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Douglas",
+      "en": "Douglas",
+      "slug": "douglas-kn11l005"
+    },
+    "code": {
+      "id": "KN11L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "-62.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN10L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bath",
+      "en": "Bath",
+      "slug": "bath-kn10l002"
+    },
+    "code": {
+      "id": "KN10L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN10",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Charlestown",
+        "en": "Saint Paul Charlestown",
+        "slug": "saint-paul-charlestown-kn10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN10",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Charlestown",
+          "en": "Saint Paul Charlestown",
+          "slug": "saint-paul-charlestown-kn10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.13",
+      "lon": "-62.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN03L002",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Saint Peter's",
+      "en": "Saint Peter's",
+      "slug": "saint-peter-s-kn03l002"
+    },
+    "code": {
+      "id": "KN03L002",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN03",
+        "level": 1,
+        "name": {
+          "local": "Saint George Basseterre",
+          "en": "Saint George Basseterre",
+          "slug": "saint-george-basseterre-kn03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.316",
+      "lon": "-62.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Phillips",
+      "en": "Phillips",
+      "slug": "phillips-kn01l005"
+    },
+    "code": {
+      "id": "KN01L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.366",
+      "lon": "-62.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN12L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Barnes Ghaut",
+      "en": "Barnes Ghaut",
+      "slug": "barnes-ghaut-kn12l004"
+    },
+    "code": {
+      "id": "KN12L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN12",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Lowland",
+          "en": "Saint Thomas Lowland",
+          "slug": "saint-thomas-lowland-kn12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.168",
+      "lon": "-62.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cole Hill",
+      "en": "Cole Hill",
+      "slug": "cole-hill-kn07l008"
+    },
+    "code": {
+      "id": "KN07L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.127",
+      "lon": "-62.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Mardenbrough",
+      "en": "Mardenbrough",
+      "slug": "mardenbrough-kn11l006"
+    },
+    "code": {
+      "id": "KN11L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "-62.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brumaire",
+      "en": "Brumaire",
+      "slug": "brumaire-kn14l003"
+    },
+    "code": {
+      "id": "KN14L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Greatheeds",
+      "en": "Greatheeds",
+      "slug": "greatheeds-kn11l007"
+    },
+    "code": {
+      "id": "KN11L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "-62.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Beaumont",
+      "en": "Beaumont",
+      "slug": "beaumont-kn07l009"
+    },
+    "code": {
+      "id": "KN07L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.124",
+      "lon": "-62.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Key",
+      "en": "Key",
+      "slug": "key-kn08l003"
+    },
+    "code": {
+      "id": "KN08L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.342",
+      "lon": "-62.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN13L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Trinity",
+      "en": "Trinity",
+      "slug": "trinity-kn13l004"
+    },
+    "code": {
+      "id": "KN13L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN13",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Middle Island",
+          "en": "Saint Thomas Middle Island",
+          "slug": "saint-thomas-middle-island-kn13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-62.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "John England Village",
+      "en": "John England Village",
+      "slug": "john-england-village-kn11l008"
+    },
+    "code": {
+      "id": "KN11L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.321",
+      "lon": "-62.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brick Kiln",
+      "en": "Brick Kiln",
+      "slug": "brick-kiln-kn05l007"
+    },
+    "code": {
+      "id": "KN05L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.175",
+      "lon": "-62.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Buck's Hill",
+      "en": "Buck's Hill",
+      "slug": "buck-s-hill-kn04l006"
+    },
+    "code": {
+      "id": "KN04L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.126",
+      "lon": "-62.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN13L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Romneys",
+      "en": "Romneys",
+      "slug": "romneys-kn13l005"
+    },
+    "code": {
+      "id": "KN13L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN13",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Middle Island",
+          "en": "Saint Thomas Middle Island",
+          "slug": "saint-thomas-middle-island-kn13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.333",
+      "lon": "-62.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN09L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Heldens",
+      "en": "Heldens",
+      "slug": "heldens-kn09l004"
+    },
+    "code": {
+      "id": "KN09L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN09",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Capisterre",
+          "en": "Saint Paul Capisterre",
+          "slug": "saint-paul-capisterre-kn09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.406",
+      "lon": "-62.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fenton Hill",
+      "en": "Fenton Hill",
+      "slug": "fenton-hill-kn04l007"
+    },
+    "code": {
+      "id": "KN04L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.139",
+      "lon": "-62.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Golden Rock",
+      "en": "Golden Rock",
+      "slug": "golden-rock-kn11l009"
+    },
+    "code": {
+      "id": "KN11L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.317",
+      "lon": "-62.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Limekiln",
+      "en": "Limekiln",
+      "slug": "limekiln-kn14l004"
+    },
+    "code": {
+      "id": "KN14L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.283",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN03L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "La Guerite",
+      "en": "La Guerite",
+      "slug": "la-guerite-kn03l003"
+    },
+    "code": {
+      "id": "KN03L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN03",
+        "level": 1,
+        "name": {
+          "local": "Saint George Basseterre",
+          "en": "Saint George Basseterre",
+          "slug": "saint-george-basseterre-kn03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-62.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Market Shop",
+      "en": "Market Shop",
+      "slug": "market-shop-kn04l008"
+    },
+    "code": {
+      "id": "KN04L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.132",
+      "lon": "-62.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maynards Ground",
+      "en": "Maynards Ground",
+      "slug": "maynards-ground-kn04l009"
+    },
+    "code": {
+      "id": "KN04L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.128",
+      "lon": "-62.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hardtimes",
+      "en": "Hardtimes",
+      "slug": "hardtimes-kn04l010"
+    },
+    "code": {
+      "id": "KN04L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "-62.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Scarborough",
+      "en": "Scarborough",
+      "slug": "scarborough-kn05l008"
+    },
+    "code": {
+      "id": "KN05L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.194",
+      "lon": "-62.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cliftons",
+      "en": "Cliftons",
+      "slug": "cliftons-kn05l009"
+    },
+    "code": {
+      "id": "KN05L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.183",
+      "lon": "-62.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN13L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Old Road Town",
+      "en": "Old Road Town",
+      "slug": "old-road-town-kn13l006"
+    },
+    "code": {
+      "id": "KN13L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN13",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Middle Island",
+          "en": "Saint Thomas Middle Island",
+          "slug": "saint-thomas-middle-island-kn13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.322",
+      "lon": "-62.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Stapleton",
+      "en": "Stapleton",
+      "slug": "stapleton-kn11l010"
+    },
+    "code": {
+      "id": "KN11L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.327",
+      "lon": "-62.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Pond Hill",
+      "en": "Pond Hill",
+      "slug": "pond-hill-kn07l010"
+    },
+    "code": {
+      "id": "KN07L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.128",
+      "lon": "-62.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Brown Hill",
+      "en": "Brown Hill",
+      "slug": "brown-hill-kn07l011"
+    },
+    "code": {
+      "id": "KN07L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.121",
+      "lon": "-62.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Chicken Stone",
+      "en": "Chicken Stone",
+      "slug": "chicken-stone-kn07l012"
+    },
+    "code": {
+      "id": "KN07L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.132",
+      "lon": "-62.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ottley's",
+      "en": "Ottley's",
+      "slug": "ottley-s-kn01l006"
+    },
+    "code": {
+      "id": "KN01L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.363",
+      "lon": "-62.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L010",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Maddens",
+      "en": "Maddens",
+      "slug": "maddens-kn05l010"
+    },
+    "code": {
+      "id": "KN05L010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.183",
+      "lon": "-62.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN09L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Trants",
+      "en": "Trants",
+      "slug": "trants-kn09l005"
+    },
+    "code": {
+      "id": "KN09L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN09",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Capisterre",
+          "en": "Saint Paul Capisterre",
+          "slug": "saint-paul-capisterre-kn09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN13L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Wingfield Manor",
+      "en": "Wingfield Manor",
+      "slug": "wingfield-manor-kn13l007"
+    },
+    "code": {
+      "id": "KN13L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN13",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Middle Island",
+          "en": "Saint Thomas Middle Island",
+          "slug": "saint-thomas-middle-island-kn13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.333",
+      "lon": "-62.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Webb's Ground",
+      "en": "Webb's Ground",
+      "slug": "webb-s-ground-kn04l011"
+    },
+    "code": {
+      "id": "KN04L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.145",
+      "lon": "-62.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN02L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fig Tree",
+      "en": "Fig Tree",
+      "slug": "fig-tree-kn02l004"
+    },
+    "code": {
+      "id": "KN02L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN02",
+      "level": 1,
+      "name": {
+        "local": "Saint Anne Sandy Point",
+        "en": "Saint Anne Sandy Point",
+        "slug": "saint-anne-sandy-point-kn02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN02",
+        "level": 1,
+        "name": {
+          "local": "Saint Anne Sandy Point",
+          "en": "Saint Anne Sandy Point",
+          "slug": "saint-anne-sandy-point-kn02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.367",
+      "lon": "-62.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hick's",
+      "en": "Hick's",
+      "slug": "hick-s-kn05l011"
+    },
+    "code": {
+      "id": "KN05L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.184",
+      "lon": "-62.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN12L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Craddocks",
+      "en": "Craddocks",
+      "slug": "craddocks-kn12l005"
+    },
+    "code": {
+      "id": "KN12L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN12",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Lowland",
+          "en": "Saint Thomas Lowland",
+          "slug": "saint-thomas-lowland-kn12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.144",
+      "lon": "-62.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN14L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fortlands",
+      "en": "Fortlands",
+      "slug": "fortlands-kn14l005"
+    },
+    "code": {
+      "id": "KN14L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN14",
+        "level": 1,
+        "name": {
+          "local": "Trinity Palmetto Point",
+          "en": "Trinity Palmetto Point",
+          "slug": "trinity-palmetto-point-kn14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.292",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN07L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hermitage",
+      "en": "Hermitage",
+      "slug": "hermitage-kn07l013"
+    },
+    "code": {
+      "id": "KN07L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN07",
+        "level": 1,
+        "name": {
+          "local": "Saint John Figtree",
+          "en": "Saint John Figtree",
+          "slug": "saint-john-figtree-kn07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "-62.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN10L003",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Church Ground",
+      "en": "Church Ground",
+      "slug": "church-ground-kn10l003"
+    },
+    "code": {
+      "id": "KN10L003",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN10",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Charlestown",
+        "en": "Saint Paul Charlestown",
+        "slug": "saint-paul-charlestown-kn10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN10",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Charlestown",
+          "en": "Saint Paul Charlestown",
+          "slug": "saint-paul-charlestown-kn10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "-62.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Whitehall",
+      "en": "Whitehall",
+      "slug": "whitehall-kn05l012"
+    },
+    "code": {
+      "id": "KN05L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.181",
+      "lon": "-62.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "New River",
+      "en": "New River",
+      "slug": "new-river-kn04l012"
+    },
+    "code": {
+      "id": "KN04L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.145",
+      "lon": "-62.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN06L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Cliftons",
+      "en": "Cliftons",
+      "slug": "cliftons-kn06l006"
+    },
+    "code": {
+      "id": "KN06L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN06",
+        "level": 1,
+        "name": {
+          "local": "Saint John Capisterre",
+          "en": "Saint John Capisterre",
+          "slug": "saint-john-capisterre-kn06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.4",
+      "lon": "-62.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN09L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ortons",
+      "en": "Ortons",
+      "slug": "ortons-kn09l006"
+    },
+    "code": {
+      "id": "KN09L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN09",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Capisterre",
+          "en": "Saint Paul Capisterre",
+          "slug": "saint-paul-capisterre-kn09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN03L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Lucas",
+      "en": "Lucas",
+      "slug": "lucas-kn03l004"
+    },
+    "code": {
+      "id": "KN03L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN03",
+        "level": 1,
+        "name": {
+          "local": "Saint George Basseterre",
+          "en": "Saint George Basseterre",
+          "slug": "saint-george-basseterre-kn03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.3",
+      "lon": "-62.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bayford's",
+      "en": "Bayford's",
+      "slug": "bayford-s-kn01l007"
+    },
+    "code": {
+      "id": "KN01L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.334",
+      "lon": "-62.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fothergill",
+      "en": "Fothergill",
+      "slug": "fothergill-kn05l013"
+    },
+    "code": {
+      "id": "KN05L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.15",
+      "lon": "-62.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L004",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Hermitage",
+      "en": "Hermitage",
+      "slug": "hermitage-kn08l004"
+    },
+    "code": {
+      "id": "KN08L004",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.367",
+      "lon": "-62.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L013",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Sherriffs",
+      "en": "Sherriffs",
+      "slug": "sherriffs-kn04l013"
+    },
+    "code": {
+      "id": "KN04L013",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.122",
+      "lon": "-62.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L011",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Dalzells",
+      "en": "Dalzells",
+      "slug": "dalzells-kn11l011"
+    },
+    "code": {
+      "id": "KN11L011",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.35",
+      "lon": "-62.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Butlers",
+      "en": "Butlers",
+      "slug": "butlers-kn05l014"
+    },
+    "code": {
+      "id": "KN05L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.167",
+      "lon": "-62.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN11L012",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Upper Conaree",
+      "en": "Upper Conaree",
+      "slug": "upper-conaree-kn11l012"
+    },
+    "code": {
+      "id": "KN11L012",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN11",
+        "level": 1,
+        "name": {
+          "local": "Saint Peter Basseterre",
+          "en": "Saint Peter Basseterre",
+          "slug": "saint-peter-basseterre-kn11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.315",
+      "lon": "-62.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN08L005",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bourryau",
+      "en": "Bourryau",
+      "slug": "bourryau-kn08l005"
+    },
+    "code": {
+      "id": "KN08L005",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN08",
+        "level": 1,
+        "name": {
+          "local": "Saint Mary Cayon",
+          "en": "Saint Mary Cayon",
+          "slug": "saint-mary-cayon-kn08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN09L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Whitegate",
+      "en": "Whitegate",
+      "slug": "whitegate-kn09l007"
+    },
+    "code": {
+      "id": "KN09L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN09",
+        "level": 1,
+        "name": {
+          "local": "Saint Paul Capisterre",
+          "en": "Saint Paul Capisterre",
+          "slug": "saint-paul-capisterre-kn09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.417",
+      "lon": "-62.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L014",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Zion",
+      "en": "Zion",
+      "slug": "zion-kn04l014"
+    },
+    "code": {
+      "id": "KN04L014",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.142",
+      "lon": "-62.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Holmes Hill",
+      "en": "Holmes Hill",
+      "slug": "holmes-hill-kn04l015"
+    },
+    "code": {
+      "id": "KN04L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.119",
+      "lon": "-62.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rices",
+      "en": "Rices",
+      "slug": "rices-kn04l016"
+    },
+    "code": {
+      "id": "KN04L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.128",
+      "lon": "-62.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L015",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Rawlins",
+      "en": "Rawlins",
+      "slug": "rawlins-kn05l015"
+    },
+    "code": {
+      "id": "KN05L015",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.195",
+      "lon": "-62.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN06L007",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Houstons",
+      "en": "Houstons",
+      "slug": "houstons-kn06l007"
+    },
+    "code": {
+      "id": "KN06L007",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN06",
+        "level": 1,
+        "name": {
+          "local": "Saint John Capisterre",
+          "en": "Saint John Capisterre",
+          "slug": "saint-john-capisterre-kn06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.383",
+      "lon": "-62.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L016",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Camps",
+      "en": "Camps",
+      "slug": "camps-kn05l016"
+    },
+    "code": {
+      "id": "KN05L016",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.197",
+      "lon": "-62.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN12L006",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Westbury",
+      "en": "Westbury",
+      "slug": "westbury-kn12l006"
+    },
+    "code": {
+      "id": "KN12L006",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN12",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Lowland",
+          "en": "Saint Thomas Lowland",
+          "slug": "saint-thomas-lowland-kn12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.183",
+      "lon": "-62.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Bachelors Hall",
+      "en": "Bachelors Hall",
+      "slug": "bachelors-hall-kn04l017"
+    },
+    "code": {
+      "id": "KN04L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.133",
+      "lon": "-62.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Nicola Town",
+      "en": "Nicola Town",
+      "slug": "nicola-town-kn01l008"
+    },
+    "code": {
+      "id": "KN01L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.38",
+      "lon": "-62.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN01L009",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Molineux",
+      "en": "Molineux",
+      "slug": "molineux-kn01l009"
+    },
+    "code": {
+      "id": "KN01L009",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN01",
+      "level": 1,
+      "name": {
+        "local": "Christ Church Nichola Town",
+        "en": "Christ Church Nichola Town",
+        "slug": "christ-church-nichola-town-kn01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN01",
+        "level": 1,
+        "name": {
+          "local": "Christ Church Nichola Town",
+          "en": "Christ Church Nichola Town",
+          "slug": "christ-church-nichola-town-kn01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.37",
+      "lon": "-62.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN13L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Ottley's",
+      "en": "Ottley's",
+      "slug": "ottley-s-kn13l008"
+    },
+    "code": {
+      "id": "KN13L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN13",
+        "level": 1,
+        "name": {
+          "local": "Saint Thomas Middle Island",
+          "en": "Saint Thomas Middle Island",
+          "slug": "saint-thomas-middle-island-kn13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.305",
+      "lon": "-62.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN06L008",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Harris",
+      "en": "Harris",
+      "slug": "harris-kn06l008"
+    },
+    "code": {
+      "id": "KN06L008",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN06",
+        "level": 1,
+        "name": {
+          "local": "Saint John Capisterre",
+          "en": "Saint John Capisterre",
+          "slug": "saint-john-capisterre-kn06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.403",
+      "lon": "-62.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN04L018",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Crook's Ground",
+      "en": "Crook's Ground",
+      "slug": "crook-s-ground-kn04l018"
+    },
+    "code": {
+      "id": "KN04L018",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN04",
+      "level": 1,
+      "name": {
+        "local": "Saint George Gingerland",
+        "en": "Saint George Gingerland",
+        "slug": "saint-george-gingerland-kn04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN04",
+        "level": 1,
+        "name": {
+          "local": "Saint George Gingerland",
+          "en": "Saint George Gingerland",
+          "slug": "saint-george-gingerland-kn04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.129",
+      "lon": "-62.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KN05L017",
+    "level": 2,
+    "level_name": {
+      "local": "Locality",
+      "en": "Locality"
+    },
+    "name": {
+      "local": "Fountain",
+      "en": "Fountain",
+      "slug": "fountain-kn05l017"
+    },
+    "code": {
+      "id": "KN05L017",
+      "iso": null
+    },
+    "parent": {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KN05",
+        "level": 1,
+        "name": {
+          "local": "Saint James Windward",
+          "en": "Saint James Windward",
+          "slug": "saint-james-windward-kn05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.181",
+      "lon": "-62.592"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

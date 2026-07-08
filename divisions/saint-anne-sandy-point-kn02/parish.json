@@ -1,0 +1,33 @@
+{
+  "id": "KN02",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint Anne Sandy Point",
+    "en": "Saint Anne Sandy Point",
+    "slug": "saint-anne-sandy-point-kn02"
+  },
+  "code": {
+    "id": "KN02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.358",
+    "lon": "-62.836"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-anne-sandy-point-kn02/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

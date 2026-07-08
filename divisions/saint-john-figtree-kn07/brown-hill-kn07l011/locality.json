@@ -1,0 +1,45 @@
+{
+  "id": "KN07L011",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Brown Hill",
+    "en": "Brown Hill",
+    "slug": "brown-hill-kn07l011"
+  },
+  "code": {
+    "id": "KN07L011",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN07",
+    "level": 1,
+    "name": {
+      "local": "Saint John Figtree",
+      "en": "Saint John Figtree",
+      "slug": "saint-john-figtree-kn07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN07",
+      "level": 1,
+      "name": {
+        "local": "Saint John Figtree",
+        "en": "Saint John Figtree",
+        "slug": "saint-john-figtree-kn07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.121",
+    "lon": "-62.602"
+  },
+  "metadata": {},
+  "source": {}
+}

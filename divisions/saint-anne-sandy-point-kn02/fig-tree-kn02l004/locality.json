@@ -1,0 +1,45 @@
+{
+  "id": "KN02L004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Fig Tree",
+    "en": "Fig Tree",
+    "slug": "fig-tree-kn02l004"
+  },
+  "code": {
+    "id": "KN02L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN02",
+    "level": 1,
+    "name": {
+      "local": "Saint Anne Sandy Point",
+      "en": "Saint Anne Sandy Point",
+      "slug": "saint-anne-sandy-point-kn02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN02",
+      "level": 1,
+      "name": {
+        "local": "Saint Anne Sandy Point",
+        "en": "Saint Anne Sandy Point",
+        "slug": "saint-anne-sandy-point-kn02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.367",
+    "lon": "-62.858"
+  },
+  "metadata": {},
+  "source": {}
+}

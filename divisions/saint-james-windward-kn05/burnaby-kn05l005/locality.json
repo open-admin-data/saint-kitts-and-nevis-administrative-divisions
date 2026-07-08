@@ -1,0 +1,45 @@
+{
+  "id": "KN05L005",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Burnaby",
+    "en": "Burnaby",
+    "slug": "burnaby-kn05l005"
+  },
+  "code": {
+    "id": "KN05L005",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN05",
+    "level": 1,
+    "name": {
+      "local": "Saint James Windward",
+      "en": "Saint James Windward",
+      "slug": "saint-james-windward-kn05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN05",
+      "level": 1,
+      "name": {
+        "local": "Saint James Windward",
+        "en": "Saint James Windward",
+        "slug": "saint-james-windward-kn05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.196",
+    "lon": "-62.573"
+  },
+  "metadata": {},
+  "source": {}
+}

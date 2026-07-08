@@ -1,0 +1,45 @@
+{
+  "id": "KN08L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Cayon",
+    "en": "Cayon",
+    "slug": "cayon-kn08l001"
+  },
+  "code": {
+    "id": "KN08L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN08",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary Cayon",
+      "en": "Saint Mary Cayon",
+      "slug": "saint-mary-cayon-kn08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.35",
+    "lon": "-62.735"
+  },
+  "metadata": {},
+  "source": {}
+}

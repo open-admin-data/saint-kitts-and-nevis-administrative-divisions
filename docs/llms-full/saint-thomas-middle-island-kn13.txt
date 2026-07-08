@@ -1,0 +1,49 @@
+# Saint Thomas Middle Island — Saint Kitts and Nevis Administrative Divisions
+
+> 8 localitys
+> Code: KN13
+> Coordinates: 17.332, -62.798
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Challengers
+
+Code: KN13L001, Coordinates: 17.3, -62.783
+
+
+### Half Way Tree
+
+Code: KN13L003, Coordinates: 17.333, -62.825
+
+
+### Middle Island
+
+Code: KN13L002, Coordinates: 17.317, -62.817
+
+
+### Old Road Town
+
+Code: KN13L006, Coordinates: 17.322, -62.803
+
+
+### Ottley&#39;s
+
+Code: KN13L008, Coordinates: 17.305, -62.776
+
+
+### Romneys
+
+Code: KN13L005, Coordinates: 17.333, -62.783
+
+
+### Trinity
+
+Code: KN13L004, Coordinates: 17.3, -62.776
+
+
+### Wingfield Manor
+
+Code: KN13L007, Coordinates: 17.333, -62.783
+
+

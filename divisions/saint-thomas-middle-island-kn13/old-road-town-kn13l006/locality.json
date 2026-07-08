@@ -1,0 +1,45 @@
+{
+  "id": "KN13L006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Old Road Town",
+    "en": "Old Road Town",
+    "slug": "old-road-town-kn13l006"
+  },
+  "code": {
+    "id": "KN13L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN13",
+    "level": 1,
+    "name": {
+      "local": "Saint Thomas Middle Island",
+      "en": "Saint Thomas Middle Island",
+      "slug": "saint-thomas-middle-island-kn13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.322",
+    "lon": "-62.803"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KN14L001",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Boydâ€™s",
+    "en": "Boydâ€™s",
+    "slug": "boyd-s-kn14l001"
+  },
+  "code": {
+    "id": "KN14L001",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN14",
+    "level": 1,
+    "name": {
+      "local": "Trinity Palmetto Point",
+      "en": "Trinity Palmetto Point",
+      "slug": "trinity-palmetto-point-kn14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.283",
+    "lon": "-62.767"
+  },
+  "metadata": {},
+  "source": {}
+}

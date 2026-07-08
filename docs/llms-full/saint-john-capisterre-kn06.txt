@@ -1,0 +1,49 @@
+# Saint John Capisterre — Saint Kitts and Nevis Administrative Divisions
+
+> 8 localitys
+> Code: KN06
+> Coordinates: 17.381, -62.793
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Brownes
+
+Code: KN06L004, Coordinates: 17.4, -62.8
+
+
+### Cliftons
+
+Code: KN06L006, Coordinates: 17.4, -62.8
+
+
+### Dieppe Bay Town
+
+Code: KN06L002, Coordinates: 17.413, -62.815
+
+
+### Geagans
+
+Code: KN06L005, Coordinates: 17.383, -62.783
+
+
+### Harris
+
+Code: KN06L008, Coordinates: 17.403, -62.787
+
+
+### Houstons
+
+Code: KN06L007, Coordinates: 17.383, -62.783
+
+
+### Parson&#39;s Ground
+
+Code: KN06L003, Coordinates: 17.409, -62.805
+
+
+### Saunders
+
+Code: KN06L001, Coordinates: 17.4, -62.783
+
+

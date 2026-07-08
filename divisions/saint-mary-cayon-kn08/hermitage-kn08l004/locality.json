@@ -1,0 +1,45 @@
+{
+  "id": "KN08L004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Hermitage",
+    "en": "Hermitage",
+    "slug": "hermitage-kn08l004"
+  },
+  "code": {
+    "id": "KN08L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN08",
+    "level": 1,
+    "name": {
+      "local": "Saint Mary Cayon",
+      "en": "Saint Mary Cayon",
+      "slug": "saint-mary-cayon-kn08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN08",
+      "level": 1,
+      "name": {
+        "local": "Saint Mary Cayon",
+        "en": "Saint Mary Cayon",
+        "slug": "saint-mary-cayon-kn08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.367",
+    "lon": "-62.717"
+  },
+  "metadata": {},
+  "source": {}
+}

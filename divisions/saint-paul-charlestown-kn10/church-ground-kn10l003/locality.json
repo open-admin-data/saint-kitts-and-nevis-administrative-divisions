@@ -1,0 +1,45 @@
+{
+  "id": "KN10L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Church Ground",
+    "en": "Church Ground",
+    "slug": "church-ground-kn10l003"
+  },
+  "code": {
+    "id": "KN10L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN10",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul Charlestown",
+      "en": "Saint Paul Charlestown",
+      "slug": "saint-paul-charlestown-kn10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN10",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Charlestown",
+        "en": "Saint Paul Charlestown",
+        "slug": "saint-paul-charlestown-kn10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.133",
+    "lon": "-62.6"
+  },
+  "metadata": {},
+  "source": {}
+}

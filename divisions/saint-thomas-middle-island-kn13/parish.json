@@ -1,0 +1,33 @@
+{
+  "id": "KN13",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint Thomas Middle Island",
+    "en": "Saint Thomas Middle Island",
+    "slug": "saint-thomas-middle-island-kn13"
+  },
+  "code": {
+    "id": "KN13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.332",
+    "lon": "-62.798"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-thomas-middle-island-kn13/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

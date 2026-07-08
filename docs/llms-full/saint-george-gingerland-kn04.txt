@@ -1,0 +1,99 @@
+# Saint George Gingerland — Saint Kitts and Nevis Administrative Divisions
+
+> 18 localitys
+> Code: KN04
+> Coordinates: 17.128, -62.555
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Bachelors Hall
+
+Code: KN04L017, Coordinates: 17.133, -62.517
+
+
+### Buck&#39;s Hill
+
+Code: KN04L006, Coordinates: 17.126, -62.564
+
+
+### Crook&#39;s Ground
+
+Code: KN04L018, Coordinates: 17.129, -62.568
+
+
+### Fenton Hill
+
+Code: KN04L007, Coordinates: 17.139, -62.565
+
+
+### Gingerland
+
+Code: KN04L002, Coordinates: 17.133, -62.55
+
+
+### Hardtimes
+
+Code: KN04L010, Coordinates: 17.133, -62.55
+
+
+### Harris
+
+Code: KN04L004, Coordinates: 17.146, -62.559
+
+
+### Hichmans
+
+Code: KN04L005, Coordinates: 17.138, -62.554
+
+
+### Holmes Hill
+
+Code: KN04L015, Coordinates: 17.119, -62.558
+
+
+### Market Shop
+
+Code: KN04L008, Coordinates: 17.132, -62.573
+
+
+### Maynards Ground
+
+Code: KN04L009, Coordinates: 17.128, -62.572
+
+
+### New River
+
+Code: KN04L012, Coordinates: 17.145, -62.553
+
+
+### Rices
+
+Code: KN04L016, Coordinates: 17.128, -62.562
+
+
+### Sherriffs
+
+Code: KN04L013, Coordinates: 17.122, -62.559
+
+
+### Stonyhill
+
+Code: KN04L001, Coordinates: 17.14, -62.568
+
+
+### Webb&#39;s Ground
+
+Code: KN04L011, Coordinates: 17.145, -62.561
+
+
+### Zetlands
+
+Code: KN04L003, Coordinates: 17.139, -62.576
+
+
+### Zion
+
+Code: KN04L014, Coordinates: 17.142, -62.561
+
+

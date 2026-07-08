@@ -1,0 +1,33 @@
+{
+  "id": "KN04",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint George Gingerland",
+    "en": "Saint George Gingerland",
+    "slug": "saint-george-gingerland-kn04"
+  },
+  "code": {
+    "id": "KN04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.128",
+    "lon": "-62.555"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-george-gingerland-kn04/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

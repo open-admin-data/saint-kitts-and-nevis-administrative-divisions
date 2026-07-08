@@ -1,0 +1,45 @@
+{
+  "id": "KN11L010",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Stapleton",
+    "en": "Stapleton",
+    "slug": "stapleton-kn11l010"
+  },
+  "code": {
+    "id": "KN11L010",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN11",
+    "level": 1,
+    "name": {
+      "local": "Saint Peter Basseterre",
+      "en": "Saint Peter Basseterre",
+      "slug": "saint-peter-basseterre-kn11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.327",
+    "lon": "-62.731"
+  },
+  "metadata": {},
+  "source": {}
+}

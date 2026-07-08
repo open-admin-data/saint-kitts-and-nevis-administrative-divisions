@@ -1,0 +1,45 @@
+{
+  "id": "KN14L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Brumaire",
+    "en": "Brumaire",
+    "slug": "brumaire-kn14l003"
+  },
+  "code": {
+    "id": "KN14L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN14",
+    "level": 1,
+    "name": {
+      "local": "Trinity Palmetto Point",
+      "en": "Trinity Palmetto Point",
+      "slug": "trinity-palmetto-point-kn14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN14",
+      "level": 1,
+      "name": {
+        "local": "Trinity Palmetto Point",
+        "en": "Trinity Palmetto Point",
+        "slug": "trinity-palmetto-point-kn14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.3",
+    "lon": "-62.733"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KN06L004",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Brownes",
+    "en": "Brownes",
+    "slug": "brownes-kn06l004"
+  },
+  "code": {
+    "id": "KN06L004",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN06",
+    "level": 1,
+    "name": {
+      "local": "Saint John Capisterre",
+      "en": "Saint John Capisterre",
+      "slug": "saint-john-capisterre-kn06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.4",
+    "lon": "-62.8"
+  },
+  "metadata": {},
+  "source": {}
+}

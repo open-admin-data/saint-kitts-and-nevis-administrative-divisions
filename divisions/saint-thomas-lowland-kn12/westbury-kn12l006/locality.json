@@ -1,0 +1,45 @@
+{
+  "id": "KN12L006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Westbury",
+    "en": "Westbury",
+    "slug": "westbury-kn12l006"
+  },
+  "code": {
+    "id": "KN12L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN12",
+    "level": 1,
+    "name": {
+      "local": "Saint Thomas Lowland",
+      "en": "Saint Thomas Lowland",
+      "slug": "saint-thomas-lowland-kn12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN12",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Lowland",
+        "en": "Saint Thomas Lowland",
+        "slug": "saint-thomas-lowland-kn12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.183",
+    "lon": "-62.607"
+  },
+  "metadata": {},
+  "source": {}
+}

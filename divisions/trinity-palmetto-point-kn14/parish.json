@@ -1,0 +1,33 @@
+{
+  "id": "KN14",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Trinity Palmetto Point",
+    "en": "Trinity Palmetto Point",
+    "slug": "trinity-palmetto-point-kn14"
+  },
+  "code": {
+    "id": "KN14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.307",
+    "lon": "-62.747"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/trinity-palmetto-point-kn14/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "KN06L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Parson's Ground",
+    "en": "Parson's Ground",
+    "slug": "parson-s-ground-kn06l003"
+  },
+  "code": {
+    "id": "KN06L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN06",
+    "level": 1,
+    "name": {
+      "local": "Saint John Capisterre",
+      "en": "Saint John Capisterre",
+      "slug": "saint-john-capisterre-kn06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN06",
+      "level": 1,
+      "name": {
+        "local": "Saint John Capisterre",
+        "en": "Saint John Capisterre",
+        "slug": "saint-john-capisterre-kn06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.409",
+    "lon": "-62.805"
+  },
+  "metadata": {},
+  "source": {}
+}

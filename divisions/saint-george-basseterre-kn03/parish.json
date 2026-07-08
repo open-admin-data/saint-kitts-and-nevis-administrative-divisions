@@ -1,0 +1,33 @@
+{
+  "id": "KN03",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint George Basseterre",
+    "en": "Saint George Basseterre",
+    "slug": "saint-george-basseterre-kn03"
+  },
+  "code": {
+    "id": "KN03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.243",
+    "lon": "-62.648"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-george-basseterre-kn03/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

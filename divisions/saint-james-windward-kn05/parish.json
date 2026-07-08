@@ -1,0 +1,33 @@
+{
+  "id": "KN05",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint James Windward",
+    "en": "Saint James Windward",
+    "slug": "saint-james-windward-kn05"
+  },
+  "code": {
+    "id": "KN05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.174",
+    "lon": "-62.568"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-james-windward-kn05/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

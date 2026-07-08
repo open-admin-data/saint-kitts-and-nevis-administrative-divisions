@@ -1,0 +1,33 @@
+{
+  "id": "KN11",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint Peter Basseterre",
+    "en": "Saint Peter Basseterre",
+    "slug": "saint-peter-basseterre-kn11"
+  },
+  "code": {
+    "id": "KN11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.325",
+    "lon": "-62.707"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-peter-basseterre-kn11/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

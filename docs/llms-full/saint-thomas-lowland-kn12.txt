@@ -1,0 +1,39 @@
+# Saint Thomas Lowland — Saint Kitts and Nevis Administrative Divisions
+
+> 6 localitys
+> Code: KN12
+> Coordinates: 17.159, -62.605
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Barnes Ghaut
+
+Code: KN12L004, Coordinates: 17.168, -62.611
+
+
+### Cotton Ground
+
+Code: KN12L001, Coordinates: 17.167, -62.617
+
+
+### Craddocks
+
+Code: KN12L005, Coordinates: 17.144, -62.623
+
+
+### Jessup
+
+Code: KN12L003, Coordinates: 17.162, -62.621
+
+
+### Vaughans
+
+Code: KN12L002, Coordinates: 17.164, -62.625
+
+
+### Westbury
+
+Code: KN12L006, Coordinates: 17.183, -62.607
+
+

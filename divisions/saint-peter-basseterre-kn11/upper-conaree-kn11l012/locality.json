@@ -1,0 +1,45 @@
+{
+  "id": "KN11L012",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Upper Conaree",
+    "en": "Upper Conaree",
+    "slug": "upper-conaree-kn11l012"
+  },
+  "code": {
+    "id": "KN11L012",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN11",
+    "level": 1,
+    "name": {
+      "local": "Saint Peter Basseterre",
+      "en": "Saint Peter Basseterre",
+      "slug": "saint-peter-basseterre-kn11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN11",
+      "level": 1,
+      "name": {
+        "local": "Saint Peter Basseterre",
+        "en": "Saint Peter Basseterre",
+        "slug": "saint-peter-basseterre-kn11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.315",
+    "lon": "-62.707"
+  },
+  "metadata": {},
+  "source": {}
+}

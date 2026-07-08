@@ -1,0 +1,34 @@
+# Trinity Palmetto Point — Saint Kitts and Nevis Administrative Divisions
+
+> 5 localitys
+> Code: KN14
+> Coordinates: 17.307, -62.747
+> Last updated: 2026-07-08. License: CC-BY-4.0.
+
+## Localitys
+
+### Boydâ€™s
+
+Code: KN14L001, Coordinates: 17.283, -62.767
+
+
+### Brumaire
+
+Code: KN14L003, Coordinates: 17.3, -62.733
+
+
+### Fortlands
+
+Code: KN14L005, Coordinates: 17.292, -62.733
+
+
+### Kit Stoddart
+
+Code: KN14L002, Coordinates: 17.299, -62.722
+
+
+### Limekiln
+
+Code: KN14L004, Coordinates: 17.283, -62.733
+
+

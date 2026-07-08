@@ -1,0 +1,33 @@
+{
+  "id": "KN08",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint Mary Cayon",
+    "en": "Saint Mary Cayon",
+    "slug": "saint-mary-cayon-kn08"
+  },
+  "code": {
+    "id": "KN08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.35",
+    "lon": "-62.73"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-mary-cayon-kn08/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}

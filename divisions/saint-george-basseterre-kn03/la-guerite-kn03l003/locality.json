@@ -1,0 +1,45 @@
+{
+  "id": "KN03L003",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "La Guerite",
+    "en": "La Guerite",
+    "slug": "la-guerite-kn03l003"
+  },
+  "code": {
+    "id": "KN03L003",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN03",
+    "level": 1,
+    "name": {
+      "local": "Saint George Basseterre",
+      "en": "Saint George Basseterre",
+      "slug": "saint-george-basseterre-kn03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN03",
+      "level": 1,
+      "name": {
+        "local": "Saint George Basseterre",
+        "en": "Saint George Basseterre",
+        "slug": "saint-george-basseterre-kn03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.3",
+    "lon": "-62.717"
+  },
+  "metadata": {},
+  "source": {}
+}

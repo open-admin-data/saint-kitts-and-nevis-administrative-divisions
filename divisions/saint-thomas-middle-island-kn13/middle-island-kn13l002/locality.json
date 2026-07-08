@@ -1,0 +1,45 @@
+{
+  "id": "KN13L002",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Middle Island",
+    "en": "Middle Island",
+    "slug": "middle-island-kn13l002"
+  },
+  "code": {
+    "id": "KN13L002",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN13",
+    "level": 1,
+    "name": {
+      "local": "Saint Thomas Middle Island",
+      "en": "Saint Thomas Middle Island",
+      "slug": "saint-thomas-middle-island-kn13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN13",
+      "level": 1,
+      "name": {
+        "local": "Saint Thomas Middle Island",
+        "en": "Saint Thomas Middle Island",
+        "slug": "saint-thomas-middle-island-kn13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.317",
+    "lon": "-62.817"
+  },
+  "metadata": {},
+  "source": {}
+}

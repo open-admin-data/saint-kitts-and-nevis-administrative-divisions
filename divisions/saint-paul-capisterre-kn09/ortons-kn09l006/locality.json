@@ -1,0 +1,45 @@
+{
+  "id": "KN09L006",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Ortons",
+    "en": "Ortons",
+    "slug": "ortons-kn09l006"
+  },
+  "code": {
+    "id": "KN09L006",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN09",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul Capisterre",
+      "en": "Saint Paul Capisterre",
+      "slug": "saint-paul-capisterre-kn09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.383",
+    "lon": "-62.833"
+  },
+  "metadata": {},
+  "source": {}
+}

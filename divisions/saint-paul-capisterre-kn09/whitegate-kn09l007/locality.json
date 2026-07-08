@@ -1,0 +1,45 @@
+{
+  "id": "KN09L007",
+  "level": 2,
+  "level_name": {
+    "local": "Locality",
+    "en": "Locality"
+  },
+  "name": {
+    "local": "Whitegate",
+    "en": "Whitegate",
+    "slug": "whitegate-kn09l007"
+  },
+  "code": {
+    "id": "KN09L007",
+    "iso": null
+  },
+  "parent": {
+    "id": "KN09",
+    "level": 1,
+    "name": {
+      "local": "Saint Paul Capisterre",
+      "en": "Saint Paul Capisterre",
+      "slug": "saint-paul-capisterre-kn09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KN09",
+      "level": 1,
+      "name": {
+        "local": "Saint Paul Capisterre",
+        "en": "Saint Paul Capisterre",
+        "slug": "saint-paul-capisterre-kn09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.417",
+    "lon": "-62.817"
+  },
+  "metadata": {},
+  "source": {}
+}

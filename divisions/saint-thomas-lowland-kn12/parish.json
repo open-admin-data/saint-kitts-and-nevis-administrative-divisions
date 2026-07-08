@@ -1,0 +1,33 @@
+{
+  "id": "KN12",
+  "level": 1,
+  "level_name": {
+    "local": "Parish",
+    "en": "Parish"
+  },
+  "name": {
+    "local": "Saint Thomas Lowland",
+    "en": "Saint Thomas Lowland",
+    "slug": "saint-thomas-lowland-kn12"
+  },
+  "code": {
+    "id": "KN12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "locality": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.159",
+    "lon": "-62.605"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kn/parishes/saint-thomas-lowland-kn12/",
+    "api": "https://openadmindata.org/api/kn/"
+  }
+}
