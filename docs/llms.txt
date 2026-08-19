@@ -9,7 +9,7 @@
 - Total parishs: 14
 - Total localitys: 119
 - Coordinates: included (all levels)
-- Last updated: 2026-07-08
+- Last updated: 2026-08-19
 - License: CC-BY-4.0
 
 ## Aggregate Data Files
